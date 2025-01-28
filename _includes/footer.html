@@ -4,7 +4,7 @@
   aria-label="Site Info"
   class="
     d-flex flex-column justify-content-center text-muted
-    flex-lg-row justify-content-lg-center align-items-lg-center pb-lg-3
+    flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
   "
 >
   <p>
@@ -26,6 +26,15 @@
         {{- site.data.locales[include.lang].copyright.brief -}}
       </span>
     {% endif %} -->
+  </p>
+
+
+  <p>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+    </script>
+    [本站总访问量<span id="busuanzi_value_site_pv"></span>次]
+    <!-- [本站访客数<span id="busuanzi_value_site_uv"></span>人次] -->
+    [本文总阅读量<span id="busuanzi_value_page_pv"></span>次]
   </p>
 
   <!-- <p>
