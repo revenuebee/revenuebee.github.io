@@ -1,13 +1,3 @@
-# Security Policy
+## 报告漏洞
 
-## Supported Versions
-
-| Version    | Supported |
-| :--------- | :-------: |
-| >= `7.0.0` |     ✓     |
-| <= `6.0.0` |     ✗     |
-
-## Reporting a Vulnerability
-
-If you find a vulnerability, please report it to `cotes.chung@gmail.com`.
-We will try our best to respond within a week. Thank you for your time!
+如果您发现漏洞，请将其报告给 `liguolianglua@gmail.com`。我将尽力在一周内回复。感谢您的时间！
