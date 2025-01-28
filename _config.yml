@@ -224,3 +224,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+google_analytics:
+  id: "G-161ZMJJ9LC" # Replace with your actual tracking ID
