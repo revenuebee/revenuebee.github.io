@@ -1,7 +1,7 @@
 ---
 title: 撰写新文章
 description: 本文将指导您如何在 Chirpy 中撰写文章
-authors: [cotes, revenuebee]
+authors: cotes
 date: 2025-01-28 16:00:00 +0800
 categories: [博客, 教程]
 tags: [写作]

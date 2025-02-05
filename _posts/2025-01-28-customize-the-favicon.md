@@ -1,7 +1,7 @@
 ---
 title: 自定义图标
 description: 本文将指导您创建并替换默认的网站图标。
-authors: [cotes, revenuebee]
+authors: cotes
 date: 2025-01-28 11:00:00 +0800
 categories: [博客, 教程]
 tags: [图标]

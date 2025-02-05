@@ -1,7 +1,7 @@
 ---
 title: 快速入门
 description: 通过本文开始了解 Chirpy 基础知识。您将学习如何安装、配置和使用您的第一个基于 Chirpy 的网站，以及如何将其部署到 Web 服务器。
-authors: [cotes, revenuebee]
+author: cotes
 date: 2025-01-28 10:00:00 +0800
 categories: [博客, 教程]
 tags: [入门]

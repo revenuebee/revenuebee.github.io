@@ -1,7 +1,7 @@
 ---
 title: 文本和排版
 description: 文本、排版、数学方程式、图表、流程图、图片、视频等的示例。
-authors: [cotes, revenuebee]
+author: cotes
 date: 2025-01-28 14:00:00 +0800
 categories: [博客, 演示]
 tags: [排版]
@@ -145,9 +145,9 @@ $$
 \end{equation}
 $$
 
-我们可以将公式引用为 \eqref{eq:series}.
+我们可以将公式引用为 \eqref{eq:series} 。
 
-当 $a \ne 0$ 时，方程 $ax^2 + bx + c = 0$  的解为
+当 $a \ne 0$ 时，方程 $ax^2 + bx + c = 0$ 的解为
 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
