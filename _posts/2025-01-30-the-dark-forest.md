@@ -236,7 +236,7 @@ render_with_liquid: false
 伊文斯：“那您刚才说的导致理解障碍的是哪一对同义词呢‘”
 {:.text_indent_2em}
 
-字幕：“想”和“说”，我们刚刚惊奇地发现，它们原采不是同义词。
+字幕：“想”和“说”，我们刚刚惊奇地发现，它们原来不是同义词。
 {:.font_family_kaiti}
 {:.text_indent_2em}
 
