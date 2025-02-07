@@ -4,7 +4,7 @@ description: 当神秘的球状闪电降临时，一个人寻找答案的旅程�
 authors: liucixin
 date: 2025-02-04 09:00:00 +0800
 categories: [小说, 转载]
-tags: [刘慈欣, 三体]
+tags: [刘慈欣, 小说, 科幻]
 render_with_liquid: false
 ---
 

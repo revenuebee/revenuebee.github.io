@@ -4,7 +4,7 @@ description: 在科技迅猛发展的未来，人类面临着全新的挑战与�
 authors: liucixin
 date: 2025-02-05 16:00:00+0800
 categories: [小说, 转载]
-tags: [刘慈欣, 三体]
+tags: [刘慈欣, 小说, 科幻]
 math: true
 render_with_liquid: false
 ---

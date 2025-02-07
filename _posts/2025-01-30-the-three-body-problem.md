@@ -4,7 +4,7 @@ description: 人类与外星文明的初次接触引发了一场牵动整个地�
 authors: liucixin
 date: 2025-01-30 09:00:00 +0800
 categories: [小说, 转载]
-tags: [刘慈欣, 三体]
+tags: [刘慈欣, 小说, 科幻]
 render_with_liquid: false
 ---
 

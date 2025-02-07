@@ -4,7 +4,7 @@ description: 时间的流逝揭示了宇宙深邃规则下的无尽奇迹与挑�
 authors: liucixin
 date: 2025-01-30 18:00:00 +0800
 categories: [小说, 转载]
-tags: [刘慈欣, 三体]
+tags: [刘慈欣, 小说, 科幻]
 render_with_liquid: false
 ---
 
