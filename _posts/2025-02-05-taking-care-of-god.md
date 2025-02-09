@@ -4,9 +4,7 @@ description: 面对上帝文明的衰落，人类需承担起反哺与宇宙责�
 authors: liucixin
 date: 2025-02-05 09:00:00 +0800
 categories: [小说, 转载]
-tags: [刘慈欣, 小说, 科幻]
-math: true
-render_with_liquid: false
+tags: [刘慈欣, 科幻]
 ---
 
 ## 一

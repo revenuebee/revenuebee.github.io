@@ -4,8 +4,7 @@ description: 人类与外星文明的初次接触引发了一场牵动整个地�
 authors: liucixin
 date: 2025-01-30 09:00:00 +0800
 categories: [小说, 转载]
-tags: [刘慈欣, 小说, 科幻]
-render_with_liquid: false
+tags: [刘慈欣, 科幻]
 ---
 
 ## 前言
@@ -208,6 +207,8 @@ render_with_liquid: false
 
 叶文洁推开阮雯的家门，发现抄家后混乱的房间变得整洁了，那几幅被撕的油画又贴糊好挂在墙上，歪倒的钢琴也端正地立在原位，虽然已被砸坏不能弹了，但还是擦得很干净，残存的几本精装书籍也被整齐地放回书架上……阮雯端坐在写字台前的那把转椅上，安详地闭着双眼。叶文洁站在她身边，摸摸她的额头、脸和手，都是冰凉的，其实文洁在进门后就注意到了写字台上倒放着的那个已空的安眠药瓶。她默默地站了一会儿，转身走去，悲伤已感觉不到了，她现在就像一台盖革计数仪，当置身于超量的辐射中时，反而不再有任何反应，没有声响，读数为零。但当她就要出门时，还是回过头来最后看了阮雯一眼，她发现阮老师很好地上了妆，她抹了口红，也穿上了高跟鞋。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='CzHJK4Qsrow' %}
 
 ## 2.&emsp;寂静的春天
 {:.text_align_center}
@@ -533,6 +534,8 @@ render_with_liquid: false
 她置身于其中的冰块渐渐变得透明了，眼前出现了一座大楼，楼上有一个女孩儿在挥动着一面大旗，她的纤小与那面旗的阔大形成鲜明对比，那是文洁的妹妹叶文雪。自从与自己的反动学术权威家庭决裂后，叶文洁再也没有听到过她的消息，直到不久前才知道妹妹已于两年前惨死于武斗。恍惚中，挥旗的人变成了白沐霖，他的眼镜反射着楼下的火光；接着那人又变成了程代表，变成了母亲绍琳，甚至变成父亲。旗手在不断变换，旗帜在不间断地被挥舞着，像一只永恒的钟摆，倒数着她那所剩无几的生命。渐渐地旗帜模糊了，一切都模糊了，那块充满宇宙的冰块又将她封在中心，这次冰块是黑色的。
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='ts5KJafLj5w' %}
+
 ## 3.&emsp;红岸之一
 {:.text_align_center}
 
@@ -723,6 +726,8 @@ render_with_liquid: false
 
 一切都沉寂下来，只有天线在风中发出的混响依旧。叶文洁看着夜空中的鸟群纷纷落回森林中。她再次仰望天线，感觉它像一只向苍穹张开的巨大手掌，拥有一种超凡脱俗的力量。她向“手掌”对着的夜空看去，并没有看到已被它打击的BN20197F号目标，在稀疏的云缕后面，只有1969年寒冷的星空。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='GBslwuKKAO8' %}
 
 ## 4.&emsp;三十八年后
 {:.text_align_center}
@@ -1145,6 +1150,8 @@ render_with_liquid: false
 汪淼心里一动，便向司机打听丁仪的住处，司机告诉了他。当天晚上，他就去找丁仪。
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='lqdU-PKgJuU' %}
+
 ## 5.&emsp;台球
 {:.text_align_center}
 
@@ -1306,6 +1313,8 @@ render_with_liquid: false
 
 汗淼知道，他不过是接下了那位英军上校的话：生存还是死亡，这是个问题。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='PEei8CucYg4' %}
 
 ## 6.&emsp;射手和农场主
 {:.text_align_center}
@@ -1825,6 +1834,8 @@ render_with_liquid: false
 
 “三天后，也就是十四日，在凌晨一点钟至五点钟，整个宇宙将为你闪烁。”
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='jKYqshHs6GY' %}
 
 ## 7.&emsp;周文王·长夜
 {:.text_align_center}
@@ -2350,6 +2361,8 @@ render_with_liquid: false
 {:.font_family_kaiti}
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='aUkpOliFoOk' %}
+
 ## 8.&emsp;叶文洁
 {:.text_align_center}
 
@@ -2460,6 +2473,8 @@ render_with_liquid: false
 
 汪淼的心中涌起一股暖流，双眼湿润了，他那颗两天来绷得紧紧的心脏像被放到了柔软的天鹅绒上。“叶老师，我会常来看您的。”他接过木盒说。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='oRNjDeLLHCI' %}
 
 ## 9.&emsp;字宙闪烁
 {:.text_align_center}
@@ -2712,6 +2727,8 @@ render_with_liquid: false
 
 汪淼的哭泣被身后的一阵笑声打断，他扭头一看，大史站在那里，嘴里吐出一口白烟。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='sl3OcifreYQ' %}
 
 ## 10.&emsp;大史
 {:.text_align_center}
@@ -2982,6 +2999,8 @@ render_with_liquid: false
 
 汪淼连谢谢都没来的急说，大史就上车走了。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='bcJccnlU3mM' %}
 
 ## 11.&emsp;三体·墨子·烈焰
 {:.text_align_center}
@@ -3358,6 +3377,8 @@ render_with_liquid: false
 于是，杨母向汪淼讲述了那段还未尘封的往事。
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='W1lzlyE9TMQ' %}
+
 ## 12.&emsp;红岸之二
 {:.text_align_center}
 
@@ -3489,6 +3510,8 @@ render_with_liquid: false
 
 “我同意。”叶文洁轻轻地。但坚定地说。于是，在这个初夏的黄昏，在巨型天线风中的轰鸣声和远方大兴安岭的松涛声中，杨卫宁向叶文洁讲述了真实的红岸工程，这是一个比雷志成的谎言更加令人难以置信的时代神话。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='FtSUv8s4PSI' %}
 
 ## 13.&emsp;红岸之三
 {:.text_align_center}
@@ -3776,6 +3799,8 @@ render_with_liquid: false
 {:.font_family_kaiti}
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='ZJeT5x4r_ew' %}
+
 ## 14.&emsp;红岸之四
 {:.text_align_center}
 
@@ -3853,6 +3878,8 @@ render_with_liquid: false
 
 看着叶文洁满头的银发，汪淼知道，她又想起了女儿。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='NwSlzTHX-mc' %}
 
 ## 15.&emsp;三体、哥白尼、宇宙橄榄球、三日凌空
 {:.text_align_center}
@@ -4074,6 +4101,8 @@ render_with_liquid: false
 欢迎您登录第二级《三体》。
 {:.text_indent_2em}
 {:.font_weight_bold}
+
+{% include embed/youtube.html id='p0wCX9nwGag' %}
 
 ## 16.&emsp;三体问题
 {:.text_align_center}
@@ -4478,6 +4507,8 @@ render_with_liquid: false
 
 “其实我也不是那么超脱，这几天都是整夜睡不着，早上起来从这里看到日出时，总觉得是日落。”他转向汪淼，沉默良久后说，“其实这一切都在于，上帝，或她说的主，自身难保了。”
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='QjrVgTP77PM' %}
 
 ## 17.&emsp;三体、牛顿、冯·诺依曼、秦始皇、三日连珠
 {:.text_align_center}
@@ -4981,6 +5012,8 @@ render_with_liquid: false
 “不可以，不过明天晚上有一个《三体》网友聚会，欢迎您参加。”管理员给了汪淼一个地址。
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='eaIEZwTTr4Q' %}
+
 ## 18.&emsp;聚会
 {:.text_align_center}
 
@@ -5130,6 +5163,8 @@ render_with_liquid: false
 
 “我们，是同志了。”
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='tHSsOwJ5aCw' %}
 
 ## 19.&emsp;三体、爱因斯坦、单摆、大撕裂
 {:.text_align_center}
@@ -5401,6 +5436,8 @@ render_with_liquid: false
 {:.text_indent_2em}
 {:.font_weight_bold}
 
+{% include embed/youtube.html id='oBuee6pbPTw' %}
+
 ## 20.&emsp;三体、远征
 {:.text_align_center}
 
@@ -5475,6 +5512,8 @@ render_with_liquid: false
 《三体》游戏结束了，当您回到现实时，如果忠于自己曾做出的的承诺，请按随后发给您的电子邮件中的地址，参加地球三体组织的聚会。
 {:.text_indent_2em}
 {:.font_weight_bold}
+
+{% include embed/youtube.html id='nG-qJ50pjfU' %}
 
 ## 21.&emsp;地球叛军
 {:.text_align_center}
@@ -5671,6 +5710,8 @@ render_with_liquid: false
 “没完，才刚刚开始。”叶文洁轻轻地说。
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='ncP_u6A1Yak' %}
+
 ## 22.&emsp;红岸之五
 {:.text_align_center}
 
@@ -5831,6 +5872,8 @@ render_with_liquid: false
 这时，在12000兆赫波段上，太阻是银河系中最亮的一颗星。
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='mXHC7z2fgbk' %}
+
 ## 23.&emsp;红岸之六
 {:.text_align_center}
 
@@ -5958,6 +6001,8 @@ render_with_liquid: false
 
 睡来后，她发现自己躺在医务室中，扬卫宁在床边关切地看着她，像多年前在飞机上那样。医生让叶文洁以后注意休息，因为她怀孕了。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='87KWEZpJkJE' %}
 
 ## 24.&emsp;叛乱
 {:.text_align_center}
@@ -6101,6 +6146,8 @@ render_with_liquid: false
 
 “老弟，还是你赢了。”大史笑着摇摇头，“老子怎么会想到，奶奶的，竟然真扯到外星人那儿！”
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='_am2OKqHaCY' %}
 
 ## 25.&emsp;雷志成、杨卫宁之死
 {:.text_align_center}
@@ -6255,6 +6302,8 @@ render_with_liquid: false
 审问者：好的，这是记录，请你仔细看看，准确无误的话，请在这儿签字。
 {:.font_family_kaiti}
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='PwvkwZMn2ts' %}
 
 ## 26.&emsp;无人忏悔
 {:.text_align_center}
@@ -6460,6 +6509,8 @@ render_with_liquid: false
 夕阳给叶文洁瘦弱的身躯投下长长的影子。在她的心灵中，对社会刚刚出现的一点希望像烈日下的露水般蒸发了，对自己已经做出的超级背叛的那一丝怀疑也消失得无影无踪，将宇宙间更高等的文明引入人类世界，终于成为叶文洁坚定不移的理想。
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='JyiOz_o12rk' %}
+
 ## 27.&emsp;伊文斯
 {:.text_align_center}
 
@@ -6659,6 +6710,8 @@ render_with_liquid: false
 伊文斯说：“我现在还不能相信你说的，毕竟太神奇了，幸运的是，我有力量去证实这一切，如果是真的，”他向叶文洁伸出手去，说出了以后地球三体组织接纳新成员时必说的一句话，“我们是同志了。”
 {:.text_indent_2em}
 
+{% include embed/youtube.html id='zpTQfBoght8' %}
+
 ## 28.&emsp;第二红岸基地
 {:.text_align_center}
 
@@ -6706,6 +6759,8 @@ render_with_liquid: false
 
 这—天，被公认为地球三体运动的诞生日。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='AO8r_cIFcvM' %}
 
 ## 29.&emsp;地球三体运动
 {:.text_align_center}
@@ -6765,6 +6820,8 @@ render_with_liquid: false
 
 比尔·马修的“接触符号”理论，得到了令人心悸的完美证实。
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='er1JDr4ML5Q' %}
 
 ## 30.&emsp;两个质子
 {:.text_align_center}
@@ -7027,6 +7084,8 @@ render_with_liquid: false
 
 “我要是说得多了，你怕是更睡不好。算了，操这份心有什么用？我们应该学习魏成和大史他们的达观，干好自己的事儿就行了。走，我们去喝点儿，然后回去睡个虫子的好觉吧。”
 {:.text_indent_2em}
+
+{% include embed/youtube.html id='Qq2_Dudxlpk' %}
 
 ## 31.&emsp;古筝行动
 {:.text_align_center}

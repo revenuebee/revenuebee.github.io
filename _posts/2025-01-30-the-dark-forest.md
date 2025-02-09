@@ -4,9 +4,8 @@ description: 宇宙遥远的威胁迫使人类重新审视生命和存亡的意�
 authors: liucixin
 date: 2025-01-30 12:00:00 +0800
 categories: [小说, 转载]
-tags: [刘慈欣, 小说, 科幻]
+tags: [刘慈欣, 科幻]
 math: true
-render_with_liquid: false
 ---
 
 ## 序章

@@ -5,7 +5,7 @@ author: cotes
 date: 2025-01-28 10:00:00 +0800
 categories: [博客, 教程]
 tags: [入门]
-pin: true
+# pin: true
 media_subpath: '/assets/img/posts'
 ---
 
