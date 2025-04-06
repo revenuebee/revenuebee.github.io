@@ -94,7 +94,7 @@ image:
 
 ## 链接
 
-<https://console.revenuebee.top>
+<https://revenuebee.github.io>
 
 ## 脚注
 
