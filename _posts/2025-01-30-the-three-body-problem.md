@@ -1802,7 +1802,7 @@ tags: [刘慈欣, 科幻]
 “你想怎么样？”汪淼的声音变得无力了。
 {:.text_indent_2em}
 
-“你旁边有上网的电脑吗？好，进这个网址：<http://www.qsl.net/bg3tt/zl/mesdm.htm>，打开了吗？把网页打印出来，随身带着。”
+“你旁边有上网的电脑吗？好，进这个网址：<https://www.qsl.net/bg3tt/zl/mesdm.htm>，打开了吗？把网页打印出来，随身带着。”
 {:.text_indent_2em}
 
 汪淼看到网页上显示的只是一张莫尔斯电码对照表。
