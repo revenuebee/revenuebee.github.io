@@ -5975,7 +5975,7 @@ tags: [刘慈欣, 科幻]
 太阳完全升出了天边连绵的山脊，红岸天线定位器的十字丝的中心对在它的上缘，这是考虑了电渡运行的提前量，发射系统已处于就绪状态。发射按钮呈长方形，很像电脑键盘上的空格键，但是红色的。这时，叶文洁的手指悬在它上面两厘米处。
 {:.text_indent_2em}
 
-![人类文明的命运，就系于这纤细的两指之上。](/assets/img/posts/the-three-body-problem-1.jpg){: width="1725" height="313" }
+![人类文明的命运，就系于这纤细的两指之上。](/assets/img/posts/the-three-body-problem-1.JPG){: width="1725" height="313" }
 
 人类文明的命运，就系于这纤细的两指之上。
 {:.text_indent_2em}
