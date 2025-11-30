@@ -3,7 +3,7 @@ title: 乡村教师
 description: 在微薄的资源与艰难的环境中，一位执着的乡村教师以知识的火种点亮学生们的未来，展示了教育的力量和人性的光辉。
 authors: liucixin
 date: 2025-02-09 10:00:00 +0800
-categories: [小说, 转载]
+categories: [小说, 科幻]
 tags: [刘慈欣, 科幻]
 ---
 

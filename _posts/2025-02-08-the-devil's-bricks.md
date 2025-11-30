@@ -3,7 +3,7 @@ title: 魔鬼积木
 description: 探索人类与异世界接触的惊险故事。
 authors: liucixin
 date: 2025-02-08 09:00:00 +0800
-categories: [小说, 转载]
+categories: [小说, 科幻]
 tags: [刘慈欣, 科幻]
 ---
 

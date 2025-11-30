@@ -3,7 +3,7 @@ title: 三体Ⅰ 地球往事
 description: 人类与外星文明的初次接触引发了一场牵动整个地球未来的危机。
 authors: liucixin
 date: 2025-01-30 09:00:00 +0800
-categories: [小说, 转载]
+categories: [小说, 科幻]
 tags: [刘慈欣, 科幻]
 ---
 

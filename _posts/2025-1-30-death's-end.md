@@ -3,7 +3,7 @@ title: 三体Ⅲ 死神永生
 description: 时间的流逝揭示了宇宙深邃规则下的无尽奇迹与挑战。
 authors: liucixin
 date: 2025-01-30 18:00:00 +0800
-categories: [小说, 转载]
+categories: [小说, 科幻]
 tags: [刘慈欣, 科幻]
 ---
 

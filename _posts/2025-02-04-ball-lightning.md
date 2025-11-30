@@ -3,7 +3,7 @@ title: 球状闪电
 description: 当神秘的球状闪电降临时，一个人寻找答案的旅程揭示了科学与未知的边界。
 authors: liucixin
 date: 2025-02-04 09:00:00 +0800
-categories: [小说, 转载]
+categories: [小说, 科幻]
 tags: [刘慈欣, 科幻]
 ---
 

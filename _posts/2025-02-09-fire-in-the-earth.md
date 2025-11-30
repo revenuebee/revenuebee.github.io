@@ -3,7 +3,7 @@ title: 地火
 description: 过去的人真笨，过去的人真难。
 authors: liucixin
 date: 2025-02-09 12:00:00 +0800
-categories: [小说, 转载]
+categories: [小说, 科幻]
 tags: [刘慈欣, 科幻]
 ---
 

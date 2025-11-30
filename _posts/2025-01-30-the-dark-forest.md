@@ -3,7 +3,7 @@ title: 三体Ⅱ 黑暗森林
 description: 宇宙遥远的威胁迫使人类重新审视生命和存亡的意义。
 authors: liucixin
 date: 2025-01-30 12:00:00 +0800
-categories: [小说, 转载]
+categories: [小说, 科幻]
 tags: [刘慈欣, 科幻]
 math: true
 ---
