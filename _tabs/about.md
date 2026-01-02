@@ -10,4 +10,4 @@ order: 4
 
 云朵以上的风景，只有与山齐高者才能看到。
 
-本博客使用 [Jekyll](https://jekyllrb.com) 的 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 主题。
+本站基于 [Jekyll](https://jekyllrb.com) 构建，采用 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 主题进行设计与渲染，托管于 GitHub。
