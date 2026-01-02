@@ -7,7 +7,7 @@ categories: [小说, 科幻]
 tags: [刘慈欣, 科幻]
 ---
 
-![超新星纪元](/assets/img/posts/超新星纪元.jpg){: width="846" height="1216" }
+![超新星纪元](/assets/img/posts/chao-xin-xing-ji-yuan-1.jpg){: width="846" height="1216" }
 
 ## 引子
 {:.text_align_center}

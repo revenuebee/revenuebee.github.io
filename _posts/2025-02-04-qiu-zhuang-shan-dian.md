@@ -10,7 +10,7 @@ tags: [刘慈欣, 科幻]
 # 本文中对球状闪电特性和行为的描写均以真实历史记录为依据。
 {:.text_align_center}
 
-![球状闪电](/assets/img/posts/球状闪电-1.jpg){: width="1115" height="1600" }
+![球状闪电](/assets/img/posts/qiu-zhuang-shan-dian-1.jpg){: width="1115" height="1600" }
 
 ## 序曲
 {:.text_align_center}
