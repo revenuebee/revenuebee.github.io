@@ -3,7 +3,7 @@ title: 白垩纪往事
 description: 探索史前时代的神秘和恐龙统治地球时的故事。
 authors: liucixin
 date: 2025-02-08 12:00:00 +0800
-categories: [小说, 科幻]
+categories: [小说, 刘慈欣]
 tags: [刘慈欣, 科幻]
 ---
 

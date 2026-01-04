@@ -3,7 +3,7 @@ title: 超新星纪元（综合版）
 description: 一场灾难性的事件让孩子们接管了整个世界，探索人性与成长的极限。
 authors: liucixin
 date: 2025-02-06 13:00:00 +0800
-categories: [小说, 科幻]
+categories: [小说, 刘慈欣]
 tags: [刘慈欣, 科幻]
 ---
 

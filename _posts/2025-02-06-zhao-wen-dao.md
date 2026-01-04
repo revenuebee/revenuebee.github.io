@@ -3,7 +3,7 @@ title: 朝闻道
 description: 在一个不可知的宇宙里，我的心脏懒得跳动了。
 authors: liucixin
 date: 2025-02-06 21:00:00 +0800
-categories: [小说, 科幻]
+categories: [小说, 刘慈欣]
 tags: [刘慈欣, 科幻]
 ---
 
