@@ -14,6 +14,7 @@ tabs:
   categories: Kategorije #Categories
   tags: Oznake #Tags
   archives: Arhiv #Archives
+  games: Igre #Game
   about: O meni #About
 
 # the text displayed in the search bar & search results

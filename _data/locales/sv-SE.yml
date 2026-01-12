@@ -14,6 +14,7 @@ tabs:
   categories: Kategorier #Categories
   tags: Taggar #Tags
   archives: Arkiv #Archives
+  games: Spel #Game
   about: Om #About
 
 # the text displayed in the search bar & search results
