@@ -2,7 +2,7 @@
 title: 吞食者
 description: 银河系的两大文明都屏住了呼吸，等待着那最后的时刻。
 authors: liucixin
-date: 2025-02-05 06:00:00 +0800
+date: 2025-02-06 06:00:00 +0800
 categories: [小说, 刘慈欣]
 tags: [刘慈欣, 科幻]
 ---
