@@ -1,8 +1,8 @@
 ---
-title: 《乔贞案卷》外传二 破碎之花
-description: 船只破浪前行。两周后，它停靠在了塞拉摩。
+title: 乔贞案卷 外传二
+description: 破碎之花
 authors: camg
-date: 2025-02-05 06:00:00 +0800
+date: 2025-02-03 06:00:00 +0800
 categories: [小说, 游戏]
 tags: [魔兽世界, 游戏]
 ---

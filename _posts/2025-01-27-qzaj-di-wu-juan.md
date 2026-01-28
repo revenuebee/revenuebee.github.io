@@ -1,8 +1,8 @@
 ---
-title: 《乔贞案卷》第五卷 秘密荣耀
-description: 每个人都有自己的秘密荣耀。
+title: 乔贞案卷 第五卷
+description: 秘密荣耀
 authors: camg
-date: 2025-01-26 06:00:00 +0800
+date: 2025-01-27 06:00:00 +0800
 categories: [小说, 游戏]
 tags: [魔兽世界, 游戏]
 ---

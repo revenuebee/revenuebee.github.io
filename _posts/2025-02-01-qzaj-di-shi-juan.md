@@ -1,6 +1,6 @@
 ---
-title: 《乔贞案卷》第十卷 破浪
-description: 树芽总会找到办法，在有水和土的地方生根。根生在哪，落叶就会留在哪。
+title: 乔贞案卷 第十卷
+description: 破浪
 authors: camg
 date: 2025-02-01 06:00:00 +0800
 categories: [小说, 游戏]

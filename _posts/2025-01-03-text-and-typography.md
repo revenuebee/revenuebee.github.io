@@ -186,8 +186,8 @@ _全屏宽度并居中对齐_
 
 下面的图片将根据主题偏好切换深色/浅色模式，注意它有阴影。
 
-![仅限浅色模式](/assets/img/posts/text-and-typography-3.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
-![仅限深色模式](/assets/img/posts/text-and-typography-4.png){: .dark .w-75 .shadow .rounded-10 w='1212' h='668' }
+![仅限浅色模式](/assets/img/posts/text-and-typography-3-light.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
+![仅限深色模式](/assets/img/posts/text-and-typography-3-dark.png){: .dark .w-75 .shadow .rounded-10 w='1212' h='668' }
 
 ## 视频
 

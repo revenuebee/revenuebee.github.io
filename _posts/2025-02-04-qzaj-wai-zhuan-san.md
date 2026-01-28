@@ -1,6 +1,6 @@
 ---
-title: 《乔贞案卷》外传三 最好的时光
-description: 那是克瑞西达生命中最难忘的一夜。
+title: 乔贞案卷 外传三
+description: 最好的时光
 authors: camg
 date: 2025-02-04 06:00:00 +0800
 categories: [小说, 游戏]
