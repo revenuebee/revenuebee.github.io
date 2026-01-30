@@ -25,6 +25,9 @@ tags: [当年明月]
 一切的事情都从1328年的那个夜晚开始。农民朱五四的妻子陈氏生下了一个男婴，大家都知道了，这个男婴就是后来的朱元璋。
 {: .text_indent_2em }
 
+<kbd>朱元璋生平</kbd>
+{: .text_align_center .font_weight_bold }
+
 ![朱元璋生平](/assets/img/posts/mcnxsr-di-yi-bu-2-light.png){: .light }
 ![朱元璋生平](/assets/img/posts/mcnxsr-di-yi-bu-2-dark.png){: .dark }
 
@@ -59,19 +62,19 @@ tags: [当年明月]
 ![朱重八家族](/assets/img/posts/mcnxsr-di-yi-bu-3-dark.png){: .dark }
 
 这并不是数学题。
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em }
 
 朱家的名字与数字息息相关，然而从现有可信资料看来，此间并无明确的数学联系。
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em }
 
 元朝时期，老百姓多以数为名。太祖如是，大将们也不例外。
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em }
 
 常遇春的曾祖父叫常四三，爷爷叫常重五，父亲叫常六六。
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em }
 
 汤和的曾祖父叫汤五一，爷爷叫汤六一，父亲叫汤七一……不一而足。
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em }
 
 取这样的名字不是因为朱家是搞数学的，而是因为在元朝，老百姓如果不能上学和当官就没有名字，只能以父母年龄相加或者出生的日期命名（登记户口的人一定会眼花）。
 {: .text_indent_2em }
@@ -597,8 +600,8 @@ tags: [当年明月]
 <kbd>朱元璋</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋的两张面孔](/assets/img/posts/mcnxsr-di-yi-bu-12-light.png){: .light }
-![朱元璋的两张面孔](/assets/img/posts/mcnxsr-di-yi-bu-12-dark.png){: .dark }
+![朱元璋](/assets/img/posts/mcnxsr-di-yi-bu-12-light.png){: .light }
+![朱元璋](/assets/img/posts/mcnxsr-di-yi-bu-12-dark.png){: .dark }
 
 <kbd>参考消息：朱元璋的两张面孔</kbd>
 {: .text_align_center .font_weight_bold }
