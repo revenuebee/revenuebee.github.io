@@ -19,8 +19,8 @@ tags: [当年明月]
 ◆ 我们从一份档案开始
 {: .font_weight_bold }
 
-![朱元璋档案](/assets/img/posts/mcnxsr-di-yi-bu-1-light.png){: .light }
-![朱元璋档案](/assets/img/posts/mcnxsr-di-yi-bu-1-dark.png){: .dark }
+![朱元璋档案](/assets/img/posts/mcnxsr-di-yi-bu-1.png){: .light }
+![朱元璋档案](/assets/img/posts/mcnxsr-di-yi-bu-1.png){: .dark style="filter: invert(100%);" }
 
 一切的事情都从1328年的那个夜晚开始。农民朱五四的妻子陈氏生下了一个男婴，大家都知道了，这个男婴就是后来的朱元璋。
 {: .text_indent_2em }
@@ -28,8 +28,8 @@ tags: [当年明月]
 <kbd>朱元璋生平</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋生平](/assets/img/posts/mcnxsr-di-yi-bu-2-light.png){: .light }
-![朱元璋生平](/assets/img/posts/mcnxsr-di-yi-bu-2-dark.png){: .dark }
+![朱元璋生平](/assets/img/posts/mcnxsr-di-yi-bu-2.png){: .light }
+![朱元璋生平](/assets/img/posts/mcnxsr-di-yi-bu-2.png){: .dark style="filter: invert(100%);" }
 
 大凡皇帝出世，后来的史书上都会有一些类似的怪象记载，比如刮风啊，下暴雨啊，冒香气啊，天上星星闪啊，到处放红光啊，反正就是要告诉你，这个人和别人不一样。朱元璋先生也不例外，他出生时，红光满地，夜间房屋中出现异光，以至于邻居以为失火了，跑来相救（《明实录》）。
 {: .text_indent_2em }
@@ -58,8 +58,8 @@ tags: [当年明月]
 <kbd>朱重八家族</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱重八家族](/assets/img/posts/mcnxsr-di-yi-bu-3-light.png){: .light }
-![朱重八家族](/assets/img/posts/mcnxsr-di-yi-bu-3-dark.png){: .dark }
+![朱重八家族](/assets/img/posts/mcnxsr-di-yi-bu-3.png){: .light }
+![朱重八家族](/assets/img/posts/mcnxsr-di-yi-bu-3.png){: .dark style="filter: invert(100%);" }
 
 这并不是数学题。
 {: .text_indent_2em }
@@ -163,8 +163,8 @@ tags: [当年明月]
 <kbd>黄河水患</kbd>
 {: .text_align_center .font_weight_bold }
 
-![黄河水患](/assets/img/posts/mcnxsr-di-yi-bu-4-light.png){: .light }
-![黄河水患](/assets/img/posts/mcnxsr-di-yi-bu-4-dark.png){: .dark }
+![黄河水患](/assets/img/posts/mcnxsr-di-yi-bu-4.png){: .light }
+![黄河水患](/assets/img/posts/mcnxsr-di-yi-bu-4.png){: .dark style="filter: invert(100%);" }
 
 <kbd>参考消息：开河”和“变钞”</kbd>
 {: .text_align_center .font_weight_bold }
@@ -182,8 +182,8 @@ tags: [当年明月]
 <kbd>赈灾物品</kbd>
 {: .text_align_center .font_weight_bold }
 
-![赈灾物品](/assets/img/posts/mcnxsr-di-yi-bu-5-light.png){: .light }
-![赈灾物品](/assets/img/posts/mcnxsr-di-yi-bu-5-dark.png){: .dark }
+![赈灾物品](/assets/img/posts/mcnxsr-di-yi-bu-5.png){: .light }
+![赈灾物品](/assets/img/posts/mcnxsr-di-yi-bu-5.png){: .dark style="filter: invert(100%);" }
 
 灾难到来后，四月初六朱重八的父亲饿死，初九大哥饿死，十二日大哥长子饿死，二十二日母亲饿死。
 {: .text_indent_2em }
@@ -297,8 +297,8 @@ tags: [当年明月]
 <kbd>乞丐朱重八的业余收获</kbd>
 {: .text_align_center .font_weight_bold }
 
-![乞丐朱重八的业余收获](/assets/img/posts/mcnxsr-di-yi-bu-6-light.png){: .light }
-![乞丐朱重八的业余收获](/assets/img/posts/mcnxsr-di-yi-bu-6-dark.png){: .dark }
+![乞丐朱重八的业余收获](/assets/img/posts/mcnxsr-di-yi-bu-6.png){: .light }
+![乞丐朱重八的业余收获](/assets/img/posts/mcnxsr-di-yi-bu-6.png){: .dark style="filter: invert(100%);" }
 
 朱重八和别的乞丐不同，也正是因为不同，他才没有一直当乞丐（请注意这句话）。
 {: .text_indent_2em }
@@ -369,8 +369,8 @@ tags: [当年明月]
 <kbd>压垮元朝的最后一根稻草</kbd>
 {: .text_align_center .font_weight_bold }
 
-![压垮元朝的最后一根稻草](/assets/img/posts/mcnxsr-di-yi-bu-7-light.png){: .light }
-![压垮元朝的最后一根稻草](/assets/img/posts/mcnxsr-di-yi-bu-7-dark.png){: .dark }
+![压垮元朝的最后一根稻草](/assets/img/posts/mcnxsr-di-yi-bu-7.png){: .light }
+![压垮元朝的最后一根稻草](/assets/img/posts/mcnxsr-di-yi-bu-7.png){: .dark style="filter: invert(100%);" }
 
 这真是老把戏，简直可以编成电脑程序，在起义之前总要搞点这种封建迷信，但也没办法，人家就吃这一套。
 {: .text_indent_2em }
@@ -402,8 +402,8 @@ tags: [当年明月]
 <kbd>元统治下的四个等级</kbd>
 {: .text_align_center .font_weight_bold }
 
-![元统治下的四个等级](/assets/img/posts/mcnxsr-di-yi-bu-8-light.png){: .light }
-![元统治下的四个等级](/assets/img/posts/mcnxsr-di-yi-bu-8-dark.png){: .dark }
+![元统治下的四个等级](/assets/img/posts/mcnxsr-di-yi-bu-8.png){: .light }
+![元统治下的四个等级](/assets/img/posts/mcnxsr-di-yi-bu-8.png){: .dark style="filter: invert(100%);" }
 
 ★ 法律规定，蒙古人、色目人殴打汉人、南人，后者不得还击、报复
 {: .text_indent_2em }
@@ -411,20 +411,20 @@ tags: [当年明月]
 <kbd>元末农民起义主要人物关系总图</kbd>
 {: .text_align_center .font_weight_bold }
 
-![元末农民起义主要人物关系总图](/assets/img/posts/mcnxsr-di-yi-bu-9-light.png){: .light }
-![元末农民起义主要人物关系总图](/assets/img/posts/mcnxsr-di-yi-bu-9-dark.png){: .dark }
+![元末农民起义主要人物关系总图](/assets/img/posts/mcnxsr-di-yi-bu-9.png){: .light }
+![元末农民起义主要人物关系总图](/assets/img/posts/mcnxsr-di-yi-bu-9.png){: .dark style="filter: invert(100%);" }
 
 <kbd>元末农民起义主要人物关系分图㈠</kbd>
 {: .text_align_center .font_weight_bold }
 
-![元末农民起义主要人物关系分图㈠](/assets/img/posts/mcnxsr-di-yi-bu-10-light.png){: .light }
-![元末农民起义主要人物关系分图㈠](/assets/img/posts/mcnxsr-di-yi-bu-10-dark.png){: .dark }
+![元末农民起义主要人物关系分图㈠](/assets/img/posts/mcnxsr-di-yi-bu-10.png){: .light }
+![元末农民起义主要人物关系分图㈠](/assets/img/posts/mcnxsr-di-yi-bu-10.png){: .dark style="filter: invert(100%);" }
 
 <kbd>元末农民起义主要人物关系分图㈡</kbd>
 {: .text_align_center .font_weight_bold }
 
-![元末农民起义主要人物关系分图㈡](/assets/img/posts/mcnxsr-di-yi-bu-11-light.png){: .light }
-![元末农民起义主要人物关系分图㈡](/assets/img/posts/mcnxsr-di-yi-bu-11-dark.png){: .dark }
+![元末农民起义主要人物关系分图㈡](/assets/img/posts/mcnxsr-di-yi-bu-11.png){: .light }
+![元末农民起义主要人物关系分图㈡](/assets/img/posts/mcnxsr-di-yi-bu-11.png){: .dark style="filter: invert(100%);" }
 
 这把火终于烧起来了，而且是燎原之势。
 {: .text_indent_2em }
@@ -600,8 +600,8 @@ tags: [当年明月]
 <kbd>朱元璋</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋](/assets/img/posts/mcnxsr-di-yi-bu-12-light.png){: .light }
-![朱元璋](/assets/img/posts/mcnxsr-di-yi-bu-12-dark.png){: .dark }
+![朱元璋](/assets/img/posts/mcnxsr-di-yi-bu-12.png){: .light }
+![朱元璋](/assets/img/posts/mcnxsr-di-yi-bu-12.png){: .dark style="filter: invert(100%);" }
 
 <kbd>参考消息：朱元璋的两张面孔</kbd>
 {: .text_align_center .font_weight_bold }
@@ -639,8 +639,8 @@ tags: [当年明月]
 <kbd>第一夫人马皇后</kbd>
 {: .text_align_center .font_weight_bold }
 
-![第一夫人马皇后](/assets/img/posts/mcnxsr-di-yi-bu-13-light.png){: .light }
-![第一夫人马皇后](/assets/img/posts/mcnxsr-di-yi-bu-13-dark.png){: .dark }
+![第一夫人马皇后](/assets/img/posts/mcnxsr-di-yi-bu-13.png){: .light }
+![第一夫人马皇后](/assets/img/posts/mcnxsr-di-yi-bu-13.png){: .dark style="filter: invert(100%);" }
 
 朱元璋只把参与打人的军士带到孙德崖面前，并且告诉孙，你的那些贪污公款、胡乱报销的烂账都在我这里，自己看着办。
 {: .text_indent_2em }
@@ -753,8 +753,8 @@ tags: [当年明月]
 <kbd>朱元璋的第一桶金，时年26岁</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋的第一桶金，时年26岁](/assets/img/posts/mcnxsr-di-yi-bu-14-light.png){: .light }
-![朱元璋的第一桶金，时年26岁](/assets/img/posts/mcnxsr-di-yi-bu-14-dark.png){: .dark }
+![朱元璋的第一桶金，时年26岁](/assets/img/posts/mcnxsr-di-yi-bu-14.png){: .light }
+![朱元璋的第一桶金，时年26岁](/assets/img/posts/mcnxsr-di-yi-bu-14.png){: .dark style="filter: invert(100%);" }
 
 朱元璋又来到了定远。对于他而言，拉壮丁已经是轻车熟路，很快他就组织了上千人的部队。他听说在定远附近的驴牌寨有一支三千人的部队，现在孤立无援，需要找个新老板，于是朱元璋打起了这支部队的主意。
 {: .text_indent_2em }
@@ -807,8 +807,8 @@ tags: [当年明月]
 <kbd>這位寨主好不地道啊！</kbd>
 {: .text_align_center .font_weight_bold }
 
-![這位寨主好不地道啊！](/assets/img/posts/mcnxsr-di-yi-bu-15-light.png){: .light }
-![這位寨主好不地道啊！](/assets/img/posts/mcnxsr-di-yi-bu-15-dark.png){: .dark }
+![這位寨主好不地道啊！](/assets/img/posts/mcnxsr-di-yi-bu-15.png){: .light }
+![這位寨主好不地道啊！](/assets/img/posts/mcnxsr-di-yi-bu-15.png){: .dark style="filter: invert(100%);" }
 
 这是朱元璋第一次领导的以少对多的战斗。
 {: .text_indent_2em }
@@ -982,8 +982,8 @@ tags: [当年明月]
 <kbd>应天之战</kbd>
 {: .text_align_center .font_weight_bold }
 
-![应天之战](/assets/img/posts/mcnxsr-di-yi-bu-16-light.png){: .light }
-![应天之战](/assets/img/posts/mcnxsr-di-yi-bu-16-dark.png){: .dark }
+![应天之战](/assets/img/posts/mcnxsr-di-yi-bu-16.png){: .light }
+![应天之战](/assets/img/posts/mcnxsr-di-yi-bu-16.png){: .dark style="filter: invert(100%);" }
 
 但是到朱元璋那里，他就是个重要的人物，杀点人、抢点钱没关系，有用就行。
 {: .text_indent_2em }
@@ -1027,8 +1027,8 @@ tags: [当年明月]
 <kbd>朱元璋的邻居们</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋的邻居们](/assets/img/posts/mcnxsr-di-yi-bu-17-light.png){: .light }
-![朱元璋的邻居们](/assets/img/posts/mcnxsr-di-yi-bu-17-dark.png){: .dark }
+![朱元璋的邻居们](/assets/img/posts/mcnxsr-di-yi-bu-17.png){: .light }
+![朱元璋的邻居们](/assets/img/posts/mcnxsr-di-yi-bu-17.png){: .dark style="filter: invert(100%);" }
 
 更关键的是，朱元璋北面的邻居是刘福通，这个是兄弟单位的部队。帮助朱元璋挡住了元朝军队的进攻。元朝的统治者倒是很重视朱元璋，可是打不着。于是就出现了这样的情形，能打的不想打，想打的不能打。
 {: .text_indent_2em }
@@ -1072,8 +1072,8 @@ tags: [当年明月]
 <kbd>张士诚</kbd>
 {: .text_align_center .font_weight_bold }
 
-![张士诚](/assets/img/posts/mcnxsr-di-yi-bu-18-light.png){: .light }
-![张士诚](/assets/img/posts/mcnxsr-di-yi-bu-18-dark.png){: .dark }
+![张士诚](/assets/img/posts/mcnxsr-di-yi-bu-18.png){: .light }
+![张士诚](/assets/img/posts/mcnxsr-di-yi-bu-18.png){: .dark style="filter: invert(100%);" }
 
 那么张士诚的性格应该就清楚了。首先他应该是一个不怕死的人，怕死就不能干这个；此外，他应该是一个比较有钱的人，有钱就能交到很多朋友；最后，他对元朝统治应该有着刻骨的仇恨，因为这个政府不让他卖私盐，还处死了他的很多朋友。
 {: .text_indent_2em }
@@ -1201,8 +1201,8 @@ tags: [当年明月]
 <kbd>彭和尚</kbd>
 {: .text_align_center .font_weight_bold }
 
-![彭和尚](/assets/img/posts/mcnxsr-di-yi-bu-19-light.png){: .light }
-![彭和尚](/assets/img/posts/mcnxsr-di-yi-bu-19-dark.png){: .dark }
+![彭和尚](/assets/img/posts/mcnxsr-di-yi-bu-19.png){: .light }
+![彭和尚](/assets/img/posts/mcnxsr-di-yi-bu-19.png){: .dark style="filter: invert(100%);" }
 
 <kbd>参考消息：彭和尚</kbd>
 {: .text_align_center .font_weight_bold }
@@ -1357,8 +1357,8 @@ tags: [当年明月]
 <kbd>朱元璋与张士诚的地盘之争</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋与张士诚的地盘之争](/assets/img/posts/mcnxsr-di-yi-bu-20-light.png){: .light }
-![朱元璋与张士诚的地盘之争](/assets/img/posts/mcnxsr-di-yi-bu-20-dark.png){: .dark }
+![朱元璋与张士诚的地盘之争](/assets/img/posts/mcnxsr-di-yi-bu-20.png){: .light }
+![朱元璋与张士诚的地盘之争](/assets/img/posts/mcnxsr-di-yi-bu-20.png){: .dark style="filter: invert(100%);" }
 
 诚然，这样的一个人是难以对付的，要对付这样的人，君子的做法是不行的，守规矩是不行的。
 {: .text_indent_2em }
@@ -1399,8 +1399,8 @@ tags: [当年明月]
 <kbd>常遇春</kbd>
 {: .text_align_center .font_weight_bold }
 
-![常遇春](/assets/img/posts/mcnxsr-di-yi-bu-21-light.png){: .light }
-![常遇春](/assets/img/posts/mcnxsr-di-yi-bu-21-dark.png){: .dark }
+![常遇春](/assets/img/posts/mcnxsr-di-yi-bu-21.png){: .light }
+![常遇春](/assets/img/posts/mcnxsr-di-yi-bu-21.png){: .dark style="filter: invert(100%);" }
 
 朱元璋见过的狂人不少，但从来没有见过这么狂的，他很生气地说：你小子不过是个吃不饱饭的难民，到我这里来混饭吃的，我怎么可能给你这样的官位呢？（《明史纪事本末》）
 {: .text_indent_2em }
@@ -1542,8 +1542,8 @@ tags: [当年明月]
 <kbd>陈友谅的舰队</kbd>
 {: .text_align_center .font_weight_bold }
 
-![陈友谅的舰队](/assets/img/posts/mcnxsr-di-yi-bu-22-light.png){: .light }
-![陈友谅的舰队](/assets/img/posts/mcnxsr-di-yi-bu-22-dark.png){: .dark }
+![陈友谅的舰队](/assets/img/posts/mcnxsr-di-yi-bu-22.png){: .light }
+![陈友谅的舰队](/assets/img/posts/mcnxsr-di-yi-bu-22.png){: .dark style="filter: invert(100%);" }
 
 陈友谅在攻击太平的战役中充分显示了他的舰队的可怕实力。他并没有让士兵去攻城，只是让士兵将船只开到太平城靠江的城墙边，用短梯从容地爬上了城头，一举歼灭了三千守军。
 {: .text_indent_2em }
@@ -1590,8 +1590,8 @@ tags: [当年明月]
 <kbd>刘伯温</kbd>
 {: .text_align_center .font_weight_bold }
 
-![刘伯温](/assets/img/posts/mcnxsr-di-yi-bu-23-light.png){: .light }
-![刘伯温](/assets/img/posts/mcnxsr-di-yi-bu-23-dark.png){: .dark }
+![刘伯温](/assets/img/posts/mcnxsr-di-yi-bu-23.png){: .light }
+![刘伯温](/assets/img/posts/mcnxsr-di-yi-bu-23.png){: .dark style="filter: invert(100%);" }
 
 <kbd>参考消息：料事如神刘伯温</kbd>
 {: .text_align_center .font_weight_bold }
@@ -1707,8 +1707,8 @@ tags: [当年明月]
 <kbd>龙湾位置</kbd>
 {: .text_align_center .font_weight_bold }
 
-![龙湾位置](/assets/img/posts/mcnxsr-di-yi-bu-24-light.png){: .light }
-![龙湾位置](/assets/img/posts/mcnxsr-di-yi-bu-24-dark.png){: .dark }
+![龙湾位置](/assets/img/posts/mcnxsr-di-yi-bu-24.png){: .light }
+![龙湾位置](/assets/img/posts/mcnxsr-di-yi-bu-24.png){: .dark style="filter: invert(100%);" }
 
 首先，他指示驻守城正北方的邵荣放弃阵地，因为他镇守的正是那个关键的地方——龙湾。
 {: .text_indent_2em }
@@ -1965,8 +1965,8 @@ tags: [当年明月]
 <kbd>秃驴</kbd>
 {: .text_align_center .font_weight_bold }
 
-![秃驴](/assets/img/posts/mcnxsr-di-yi-bu-25-light.png){: .light }
-![秃驴](/assets/img/posts/mcnxsr-di-yi-bu-25-dark.png){: .dark }
+![秃驴](/assets/img/posts/mcnxsr-di-yi-bu-25.png){: .light }
+![秃驴](/assets/img/posts/mcnxsr-di-yi-bu-25.png){: .dark style="filter: invert(100%);" }
 
 住持终于发现，这是个深不可测的人。
 {: .text_indent_2em }
@@ -2031,8 +2031,8 @@ tags: [当年明月]
 <kbd>陈友谅的秘密武器——战船</kbd>
 {: .text_align_center .font_weight_bold }
 
-![陈友谅的秘密武器——战船](/assets/img/posts/mcnxsr-di-yi-bu-26-light.png){: .light }
-![陈友谅的秘密武器——战船](/assets/img/posts/mcnxsr-di-yi-bu-26-dark.png){: .dark }
+![陈友谅的秘密武器——战船](/assets/img/posts/mcnxsr-di-yi-bu-26.png){: .light }
+![陈友谅的秘密武器——战船](/assets/img/posts/mcnxsr-di-yi-bu-26.png){: .dark style="filter: invert(100%);" }
 
 更让他烦恼的是，陈友谅在上游，他在下游，让他很不舒服。这种心理其实我们很容易理解，好比你住在山坡下面，他住山坡上面，每次都要抬头看人家，很难受。
 {: .text_indent_2em }
@@ -2484,8 +2484,8 @@ tags: [当年明月]
 <kbd>洪都之战</kbd>
 {: .text_align_center .font_weight_bold }
 
-![洪都之战](/assets/img/posts/mcnxsr-di-yi-bu-27-light.png){: .light }
-![洪都之战](/assets/img/posts/mcnxsr-di-yi-bu-27-dark.png){: .dark }
+![洪都之战](/assets/img/posts/mcnxsr-di-yi-bu-27.png){: .light }
+![洪都之战](/assets/img/posts/mcnxsr-di-yi-bu-27.png){: .dark style="filter: invert(100%);" }
 
 说实话，我现在还无法想象那是个什么景象，前面的士兵在拿刀拼杀，他们后边的人用水泥刀砌墙。
 {: .text_indent_2em }
@@ -2999,8 +2999,8 @@ tags: [当年明月]
 <kbd>鄱阳湖之战㈠</kbd>
 {: .text_align_center .font_weight_bold }
 
-![鄱阳湖之战㈠](/assets/img/posts/mcnxsr-di-yi-bu-28-light.png){: .light }
-![鄱阳湖之战㈠](/assets/img/posts/mcnxsr-di-yi-bu-28-dark.png){: .dark }
+![鄱阳湖之战㈠](/assets/img/posts/mcnxsr-di-yi-bu-28.png){: .light }
+![鄱阳湖之战㈠](/assets/img/posts/mcnxsr-di-yi-bu-28.png){: .dark style="filter: invert(100%);" }
 
 但陈友谅毕竟是陈友谅，在初期的失败后，他及时整顿了舰队，发挥自己巨舰的优势，利用船只上的火炮对徐达军发动猛攻。
 {: .text_indent_2em }
@@ -3299,8 +3299,8 @@ tags: [当年明月]
 <kbd>鄱阳湖之战㈡</kbd>
 {: .text_align_center .font_weight_bold }
 
-![鄱阳湖之战㈡](/assets/img/posts/mcnxsr-di-yi-bu-29-light.png){: .light }
-![鄱阳湖之战㈡](/assets/img/posts/mcnxsr-di-yi-bu-29-dark.png){: .dark }
+![鄱阳湖之战㈡](/assets/img/posts/mcnxsr-di-yi-bu-29.png){: .light }
+![鄱阳湖之战㈡](/assets/img/posts/mcnxsr-di-yi-bu-29.png){: .dark style="filter: invert(100%);" }
 
 ◆ 陈友谅的失败
 {: .font_weight_bold }
@@ -3347,8 +3347,8 @@ tags: [当年明月]
 <kbd>陈友谅</kbd>
 {: .text_align_center .font_weight_bold }
 
-![陈友谅](/assets/img/posts/mcnxsr-di-yi-bu-30-light.png){: .light }
-![陈友谅](/assets/img/posts/mcnxsr-di-yi-bu-30-dark.png){: .dark }
+![陈友谅](/assets/img/posts/mcnxsr-di-yi-bu-30.png){: .light }
+![陈友谅](/assets/img/posts/mcnxsr-di-yi-bu-30.png){: .dark style="filter: invert(100%);" }
 
 当然，失败后的陈友谅对他们而言也不是毫无价值，至少他的脑袋还是很值钱的。
 {: .text_indent_2em }
@@ -3446,8 +3446,8 @@ tags: [当年明月]
 <kbd>地主张三是怎样炼成的</kbd>
 {: .text_align_center .font_weight_bold }
 
-![地主张三是怎样炼成的](/assets/img/posts/mcnxsr-di-yi-bu-31-light.png){: .light }
-![地主张三是怎样炼成的](/assets/img/posts/mcnxsr-di-yi-bu-31-dark.png){: .dark }
+![地主张三是怎样炼成的](/assets/img/posts/mcnxsr-di-yi-bu-31.png){: .light }
+![地主张三是怎样炼成的](/assets/img/posts/mcnxsr-di-yi-bu-31.png){: .dark style="filter: invert(100%);" }
 
 当然了，还是用我的叙述方式，我相信再深刻、抽象的规律和制度分析都是可以用通俗的语言表达出来，让地球人都明白。
 {: .text_indent_2em }
@@ -3640,8 +3640,8 @@ tags: [当年明月]
 <kbd>朱元璋三步灭掉张士诚</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋三步灭掉张士诚](/assets/img/posts/mcnxsr-di-yi-bu-32-light.png){: .light }
-![朱元璋三步灭掉张士诚](/assets/img/posts/mcnxsr-di-yi-bu-32-dark.png){: .dark }
+![朱元璋三步灭掉张士诚](/assets/img/posts/mcnxsr-di-yi-bu-32.png){: .light }
+![朱元璋三步灭掉张士诚](/assets/img/posts/mcnxsr-di-yi-bu-32.png){: .dark style="filter: invert(100%);" }
 
 ◆ 平江攻击战
 {: .font_weight_bold }
@@ -3688,8 +3688,8 @@ tags: [当年明月]
 <kbd>平江攻击战</kbd>
 {: .text_align_center .font_weight_bold }
 
-![平江攻击战](/assets/img/posts/mcnxsr-di-yi-bu-33-light.png){: .light }
-![平江攻击战](/assets/img/posts/mcnxsr-di-yi-bu-33-dark.png){: .dark }
+![平江攻击战](/assets/img/posts/mcnxsr-di-yi-bu-33.png){: .light }
+![平江攻击战](/assets/img/posts/mcnxsr-di-yi-bu-33.png){: .dark style="filter: invert(100%);" }
 
 统计图，他在平江城外布置了十支军队，从不同的角度方位攻打，别说是人，神仙也受不了。其实不用打，这么多人只要挤进城去，也能把张士诚挤死。
 {: .text_indent_2em }
@@ -3775,8 +3775,8 @@ tags: [当年明月]
 <kbd>张士诚的一生</kbd>
 {: .text_align_center .font_weight_bold }
 
-![张士诚的一生](/assets/img/posts/mcnxsr-di-yi-bu-34-light.png){: .light }
-![张士诚的一生](/assets/img/posts/mcnxsr-di-yi-bu-34-dark.png){: .dark }
+![张士诚的一生](/assets/img/posts/mcnxsr-di-yi-bu-34.png){: .light }
+![张士诚的一生](/assets/img/posts/mcnxsr-di-yi-bu-34.png){: .dark style="filter: invert(100%);" }
 
 ## 第十四&emsp;章复仇
 
@@ -3867,8 +3867,8 @@ tags: [当年明月]
 <kbd>蒙古旋风</kbd>
 {: .text_align_center .font_weight_bold }
 
-![蒙古旋风](/assets/img/posts/mcnxsr-di-yi-bu-35-light.png){: .light }
-![蒙古旋风](/assets/img/posts/mcnxsr-di-yi-bu-35-dark.png){: .dark }
+![蒙古旋风](/assets/img/posts/mcnxsr-di-yi-bu-35.png){: .light }
+![蒙古旋风](/assets/img/posts/mcnxsr-di-yi-bu-35.png){: .dark style="filter: invert(100%);" }
 
 在那些人看来，这些连字不认识的北极人，只是凭借着所谓的勇猛作战，怎么可能在军事谋略上胜过长期接受系统军事理论训练的文化先进民族的军官们？
 {: .text_indent_2em }
@@ -3894,8 +3894,8 @@ tags: [当年明月]
 <kbd>蒙古骑兵</kbd>
 {: .text_align_center .font_weight_bold }
 
-![蒙古骑兵](/assets/img/posts/mcnxsr-di-yi-bu-36-light.png){: .light }
-![蒙古骑兵](/assets/img/posts/mcnxsr-di-yi-bu-36-dark.png){: .dark }
+![蒙古骑兵](/assets/img/posts/mcnxsr-di-yi-bu-36.png){: .light }
+![蒙古骑兵](/assets/img/posts/mcnxsr-di-yi-bu-36.png){: .dark style="filter: invert(100%);" }
 
 当你吼蒙古骑兵时，你的噩梦就开始了。进攻前射箭，进攻的过程中射箭，甚至在他逃跑的时候，还在射箭。你追也追不上，打也打不着，这种类似无赖的打法足以把人逼疯！
 {: .text_indent_2em }
@@ -3927,8 +3927,8 @@ tags: [当年明月]
 <kbd>蒙古军队的破坏力</kbd>
 {: .text_align_center .font_weight_bold }
 
-![蒙古军队的破坏力](/assets/img/posts/mcnxsr-di-yi-bu-37-light.png){: .light }
-![蒙古军队的破坏力](/assets/img/posts/mcnxsr-di-yi-bu-37-dark.png){: .dark }
+![蒙古军队的破坏力](/assets/img/posts/mcnxsr-di-yi-bu-37.png){: .light }
+![蒙古军队的破坏力](/assets/img/posts/mcnxsr-di-yi-bu-37.png){: .dark style="filter: invert(100%);" }
 
 他们认为，有人留在自己的身后是不安全的，一定要杀光才安心（盖蒙古兵不欲后路有居民，因而产生后顾之忧也）。
 {: .text_indent_2em }
@@ -4137,8 +4137,8 @@ tags: [当年明月]
 <kbd>文天祥</kbd>
 {: .text_align_center .font_weight_bold }
 
-![文天祥](/assets/img/posts/mcnxsr-di-yi-bu-38-light.png){: .light }
-![文天祥](/assets/img/posts/mcnxsr-di-yi-bu-38-dark.png){: .dark }
+![文天祥](/assets/img/posts/mcnxsr-di-yi-bu-38.png){: .light }
+![文天祥](/assets/img/posts/mcnxsr-di-yi-bu-38.png){: .dark style="filter: invert(100%);" }
 
 <kbd>参考消息：文天祥</kbd>
 {: .text_align_center .font_weight_bold }
@@ -4299,8 +4299,8 @@ tags: [当年明月]
 <kbd>王保保</kbd>
 {: .text_align_center .font_weight_bold }
 
-![王保保](/assets/img/posts/mcnxsr-di-yi-bu-39-light.png){: .light }
-![王保保](/assets/img/posts/mcnxsr-di-yi-bu-39-dark.png){: .dark }
+![王保保](/assets/img/posts/mcnxsr-di-yi-bu-39.png){: .light }
+![王保保](/assets/img/posts/mcnxsr-di-yi-bu-39.png){: .dark style="filter: invert(100%);" }
 
 <kbd>参考消息：王保保</kbd>
 {: .text_align_center .font_weight_bold }
@@ -4311,8 +4311,8 @@ tags: [当年明月]
 <kbd>北伐形势图</kbd>
 {: .text_align_center .font_weight_bold }
 
-![北伐形势图](/assets/img/posts/mcnxsr-di-yi-bu-40-light.png){: .light }
-![北伐形势图](/assets/img/posts/mcnxsr-di-yi-bu-40-dark.png){: .dark }
+![北伐形势图](/assets/img/posts/mcnxsr-di-yi-bu-40.png){: .light }
+![北伐形势图](/assets/img/posts/mcnxsr-di-yi-bu-40.png){: .dark style="filter: invert(100%);" }
 
 这时王保保才意识到自己面前的对手的可怕。
 {: .text_indent_2em }
@@ -4335,8 +4335,8 @@ tags: [当年明月]
 <kbd>朱元璋：从农民领袖到皇帝的三级跳</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋：从农民领袖到皇帝的三级跳](/assets/img/posts/mcnxsr-di-yi-bu-41-light.png){: .light }
-![朱元璋：从农民领袖到皇帝的三级跳](/assets/img/posts/mcnxsr-di-yi-bu-41-dark.png){: .dark }
+![朱元璋：从农民领袖到皇帝的三级跳](/assets/img/posts/mcnxsr-di-yi-bu-41.png){: .light }
+![朱元璋：从农民领袖到皇帝的三级跳](/assets/img/posts/mcnxsr-di-yi-bu-41.png){: .dark style="filter: invert(100%);" }
 
 各位大臣们肯定不会甘休，于是磕头的磕头，寻死的寻死（当然只是说说），希望朱元璋不当皇帝他们就活不下去。
 {: .text_indent_2em }
@@ -4534,8 +4534,8 @@ tags: [当年明月]
 <kbd>怎样战胜骑兵</kbd>
 {: .text_align_center .font_weight_bold }
 
-![怎样战胜骑兵](/assets/img/posts/mcnxsr-di-yi-bu-42-light.png){: .light }
-![怎样战胜骑兵](/assets/img/posts/mcnxsr-di-yi-bu-42-dark.png){: .dark }
+![怎样战胜骑兵](/assets/img/posts/mcnxsr-di-yi-bu-42.png){: .light }
+![怎样战胜骑兵](/assets/img/posts/mcnxsr-di-yi-bu-42.png){: .dark style="filter: invert(100%);" }
 
 ◆ 怎样战胜骑兵
 {: .font_weight_bold }
@@ -4840,8 +4840,8 @@ tags: [当年明月]
 <kbd>定西沉儿峪之战</kbd>
 {: .text_align_center .font_weight_bold }
 
-![定西沉儿峪之战](/assets/img/posts/mcnxsr-di-yi-bu-43-light.png){: .light }
-![定西沉儿峪之战](/assets/img/posts/mcnxsr-di-yi-bu-43-dark.png){: .dark }
+![定西沉儿峪之战](/assets/img/posts/mcnxsr-di-yi-bu-43.png){: .light }
+![定西沉儿峪之战](/assets/img/posts/mcnxsr-di-yi-bu-43.png){: .dark style="filter: invert(100%);" }
 
 ★ 书内命名日期皆为阴历
 {: .text_indent_2em .font_family_kaiti }
@@ -4903,8 +4903,8 @@ tags: [当年明月]
 <kbd>名将是怎样炼成的</kbd>
 {: .text_align_center .font_weight_bold }
 
-![名将是怎样炼成的](/assets/img/posts/mcnxsr-di-yi-bu-44-light.png){: .light }
-![名将是怎样炼成的](/assets/img/posts/mcnxsr-di-yi-bu-44-dark.png){: .dark }
+![名将是怎样炼成的](/assets/img/posts/mcnxsr-di-yi-bu-44.png){: .light }
+![名将是怎样炼成的](/assets/img/posts/mcnxsr-di-yi-bu-44.png){: .dark style="filter: invert(100%);" }
 
 而留下来的那些修炼，在残酷的实战中逐渐了解了战争的规律，开始真正走上名将之路。
 {: .text_indent_2em }
@@ -5185,8 +5185,8 @@ tags: [当年明月]
 <kbd>1372年明军远征沙漠</kbd>
 {: .text_align_center .font_weight_bold }
 
-![1372年明军远征沙漠](/assets/img/posts/mcnxsr-di-yi-bu-45-light.png){: .light }
-![1372年明军远征沙漠](/assets/img/posts/mcnxsr-di-yi-bu-45-dark.png){: .dark }
+![1372年明军远征沙漠](/assets/img/posts/mcnxsr-di-yi-bu-45.png){: .light }
+![1372年明军远征沙漠](/assets/img/posts/mcnxsr-di-yi-bu-45.png){: .dark style="filter: invert(100%);" }
 
 从五月到十月的这五个月里，元军痛苦不堪，傅友德促成数万大军从甘肃打到蒙古，所向披靡，来回折腾元军，元军又怕又恨，打又打不赢，躲也躲不了，整日在恐惧中生活。
 {: .text_indent_2em }
@@ -5349,8 +5349,8 @@ tags: [当年明月]
 <kbd>明朝的科举制度</kbd>
 {: .text_align_center .font_weight_bold }
 
-![明朝的科举制度](/assets/img/posts/mcnxsr-di-yi-bu-46-light.png){: .light }
-![明朝的科举制度](/assets/img/posts/mcnxsr-di-yi-bu-46-dark.png){: .dark }
+![明朝的科举制度](/assets/img/posts/mcnxsr-di-yi-bu-46.png){: .light }
+![明朝的科举制度](/assets/img/posts/mcnxsr-di-yi-bu-46.png){: .dark style="filter: invert(100%);" }
 
 ◆ 当官的秩序
 {: .font_weight_bold }
@@ -5475,8 +5475,8 @@ tags: [当年明月]
 <kbd>八股文的三大限制</kbd>
 {: .text_align_center .font_weight_bold }
 
-![八股文的三大限制](/assets/img/posts/mcnxsr-di-yi-bu-47-light.png){: .light }
-![八股文的三大限制](/assets/img/posts/mcnxsr-di-yi-bu-47-dark.png){: .dark }
+![八股文的三大限制](/assets/img/posts/mcnxsr-di-yi-bu-47.png){: .light }
+![八股文的三大限制](/assets/img/posts/mcnxsr-di-yi-bu-47.png){: .dark style="filter: invert(100%);" }
 
 无数候选人午夜梦回，心中挥之不去的就是朱熹那不俊朗的外貌和并不魁梧的身材，久而久之，有些醒悟过来的人就开始问候朱熹的父母及祖先，好像这样才能出口恶气。问题在于骂完后要考啊，不考还是没有官做，这是实际的问题。
 {: .text_indent_2em }
@@ -5703,8 +5703,8 @@ tags: [当年明月]
 <kbd>对话中的考验</kbd>
 {: .text_align_center .font_weight_bold }
 
-![对话中的考验](/assets/img/posts/mcnxsr-di-yi-bu-48-light.png){: .light }
-![对话中的考验](/assets/img/posts/mcnxsr-di-yi-bu-48-dark.png){: .dark }
+![对话中的考验](/assets/img/posts/mcnxsr-di-yi-bu-48.png){: .light }
+![对话中的考验](/assets/img/posts/mcnxsr-di-yi-bu-48.png){: .dark style="filter: invert(100%);" }
 
 他立即回答：“杨宪有丞相的才能，但没有丞相的气量，不可以。”
 {: .text_indent_2em }
@@ -5805,14 +5805,14 @@ tags: [当年明月]
 <kbd>淮西集团对决浙东集团</kbd>
 {: .text_align_center .font_weight_bold }
 
-![淮西集团对决浙东集团](/assets/img/posts/mcnxsr-di-yi-bu-49-light.png){: .light }
-![淮西集团对决浙东集团](/assets/img/posts/mcnxsr-di-yi-bu-49-dark.png){: .dark }
+![淮西集团对决浙东集团](/assets/img/posts/mcnxsr-di-yi-bu-49.png){: .light }
+![淮西集团对决浙东集团](/assets/img/posts/mcnxsr-di-yi-bu-49.png){: .dark style="filter: invert(100%);" }
 
 <kbd>刘基生平</kbd>
 {: .text_align_center .font_weight_bold }
 
-![刘基生平](/assets/img/posts/mcnxsr-di-yi-bu-50-light.png){: .light }
-![刘基生平](/assets/img/posts/mcnxsr-di-yi-bu-50-dark.png){: .dark }
+![刘基生平](/assets/img/posts/mcnxsr-di-yi-bu-50.png){: .light }
+![刘基生平](/assets/img/posts/mcnxsr-di-yi-bu-50.png){: .dark style="filter: invert(100%);" }
 
 无论此事是否朱元璋指使，但毫无疑问的是，刘基之死朱元璋是负有责任的。
 {: .text_indent_2em }
@@ -5954,8 +5954,8 @@ tags: [当年明月]
 <kbd>免死铁券</kbd>
 {: .text_align_center .font_weight_bold }
 
-![免死铁券](/assets/img/posts/mcnxsr-di-yi-bu-51-light.png){: .light }
-![免死铁券](/assets/img/posts/mcnxsr-di-yi-bu-51-dark.png){: .dark }
+![免死铁券](/assets/img/posts/mcnxsr-di-yi-bu-51.png){: .light }
+![免死铁券](/assets/img/posts/mcnxsr-di-yi-bu-51.png){: .dark style="filter: invert(100%);" }
 
 <kbd>参考消息：明朝的丹书铁券</kbd>
 {: .text_align_center .font_weight_bold }
@@ -6203,8 +6203,8 @@ tags: [当年明月]
 <kbd>朱元璋的机构改革</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋的机构改革](/assets/img/posts/mcnxsr-di-yi-bu-52-light.png){: .light }
-![朱元璋的机构改革](/assets/img/posts/mcnxsr-di-yi-bu-52-dark.png){: .dark }
+![朱元璋的机构改革](/assets/img/posts/mcnxsr-di-yi-bu-52.png){: .light }
+![朱元璋的机构改革](/assets/img/posts/mcnxsr-di-yi-bu-52.png){: .dark style="filter: invert(100%);" }
 
 那上千年的皇帝与大臣的博弈中，这条规则在不断地完善。双方都知道自己该做什么、能做什么，就在这样的规则中，权力达到了平衡。
 {: .text_indent_2em }
@@ -6284,8 +6284,8 @@ tags: [当年明月]
 <kbd>特务的进化史</kbd>
 {: .text_align_center .font_weight_bold }
 
-![特务的进化史](/assets/img/posts/mcnxsr-di-yi-bu-53-light.png){: .light }
-![特务的进化史](/assets/img/posts/mcnxsr-di-yi-bu-53-dark.png){: .dark }
+![特务的进化史](/assets/img/posts/mcnxsr-di-yi-bu-53.png){: .light }
+![特务的进化史](/assets/img/posts/mcnxsr-di-yi-bu-53.png){: .dark style="filter: invert(100%);" }
 
 比如国子监祭酒宋讷有一天上朝，朱元璋问他昨天晚上为什么不高兴，宋讷大吃一惊。朱元璋暴露了一件文物，正是宋讷昨夜生气表情的画像。
 {: .text_indent_2em }
@@ -6585,8 +6585,8 @@ tags: [当年明月]
 <kbd>勤劳程度排行榜</kbd>
 {: .text_align_center .font_weight_bold }
 
-![勤劳程度排行榜](/assets/img/posts/mcnxsr-di-yi-bu-54-light.png){: .light }
-![勤劳程度排行榜](/assets/img/posts/mcnxsr-di-yi-bu-54-dark.png){: .dark }
+![勤劳程度排行榜](/assets/img/posts/mcnxsr-di-yi-bu-54.png){: .light }
+![勤劳程度排行榜](/assets/img/posts/mcnxsr-di-yi-bu-54.png){: .dark style="filter: invert(100%);" }
 
 这些人无疑都是优秀典型，但有他们这样高的道德修养的人实在不多。
 {: .text_indent_2em }
@@ -6803,8 +6803,8 @@ tags: [当年明月]
 <kbd>朱元璋的反腐铁腕</kbd>
 {: .text_align_center .font_weight_bold }
 
-![朱元璋的反腐铁腕](/assets/img/posts/mcnxsr-di-yi-bu-55-light.png){: .light }
-![朱元璋的反腐铁腕](/assets/img/posts/mcnxsr-di-yi-bu-55-dark.png){: .dark }
+![朱元璋的反腐铁腕](/assets/img/posts/mcnxsr-di-yi-bu-55.png){: .light }
+![朱元璋的反腐铁腕](/assets/img/posts/mcnxsr-di-yi-bu-55.png){: .dark style="filter: invert(100%);" }
 
 似乎这个数字并不多，别急，后面还有：戴死罪、徒流罪办事者三百五十八人。
 {: .text_indent_2em }
@@ -7000,8 +7000,8 @@ tags: [当年明月]
 <kbd>空印案始末</kbd>
 {: .text_align_center .font_weight_bold }
 
-![空印案始末](/assets/img/posts/mcnxsr-di-yi-bu-56-light.png){: .light }
-![空印案始末](/assets/img/posts/mcnxsr-di-yi-bu-56-dark.png){: .dark }
+![空印案始末](/assets/img/posts/mcnxsr-di-yi-bu-56.png){: .light }
+![空印案始末](/assets/img/posts/mcnxsr-di-yi-bu-56.png){: .dark style="filter: invert(100%);" }
 
 朱元璋的行为大概可以用《说唐》里秦叔宝进牢房时，衙役喊的一句话来解释：“进得牢来，先打你一百杀威棍，看你老不老实！”
 {: .text_indent_2em }
@@ -7265,8 +7265,8 @@ tags: [当年明月]
 <kbd>李善长的末路</kbd>
 {: .text_align_center .font_weight_bold }
 
-![李善长的末路](/assets/img/posts/mcnxsr-di-yi-bu-57-light.png){: .light }
-![李善长的末路](/assets/img/posts/mcnxsr-di-yi-bu-57-dark.png){: .dark }
+![李善长的末路](/assets/img/posts/mcnxsr-di-yi-bu-57.png){: .light }
+![李善长的末路](/assets/img/posts/mcnxsr-di-yi-bu-57.png){: .dark style="filter: invert(100%);" }
 
 此时凑热闹的人也不断地多了起来，御史们纷纷上书，弹劾李善长，从上朝时不注意礼节到贪污受贿，罪名无所不包，似乎恨不得控诉他修建房子过程中砍伐树木破坏了环境。更让人想不到的是，一个绝对与办案八竿子打不上边的部门也在李善长身上踩了一脚，说来实在让人啼笑皆非。
 {: .text_indent_2em }
@@ -7316,8 +7316,8 @@ tags: [当年明月]
 <kbd>李善长的一生</kbd>
 {: .text_align_center .font_weight_bold }
 
-![李善长的一生](/assets/img/posts/mcnxsr-di-yi-bu-58-light.png){: .light }
-![李善长的一生](/assets/img/posts/mcnxsr-di-yi-bu-58-dark.png){: .dark }
+![李善长的一生](/assets/img/posts/mcnxsr-di-yi-bu-58.png){: .light }
+![李善长的一生](/assets/img/posts/mcnxsr-di-yi-bu-58.png){: .dark style="filter: invert(100%);" }
 
 他向现在的皇帝朱元璋叩头谢恩，走出了大殿。
 {: .text_indent_2em }
@@ -7405,8 +7405,8 @@ tags: [当年明月]
 <kbd>蓝玉</kbd>
 {: .text_align_center .font_weight_bold }
 
-![蓝玉](/assets/img/posts/mcnxsr-di-yi-bu-59-light.png){: .light }
-![蓝玉](/assets/img/posts/mcnxsr-di-yi-bu-59-dark.png){: .dark }
+![蓝玉](/assets/img/posts/mcnxsr-di-yi-bu-59.png){: .light }
+![蓝玉](/assets/img/posts/mcnxsr-di-yi-bu-59.png){: .dark style="filter: invert(100%);" }
 
 说是重任，其实也不算，蓝玉的运气其实并不好，在他的那个时代，名将太多。他无论从资历和能力上都还差一截，只能乖乖地给那些前辈们打下手。
 {: .text_indent_2em }
@@ -7741,8 +7741,8 @@ tags: [当年明月]
 <kbd>四等军队的素质</kbd>
 {: .text_align_center .font_weight_bold }
 
-![四等军队的素质](/assets/img/posts/mcnxsr-di-yi-bu-60-light.png){: .light }
-![四等军队的素质](/assets/img/posts/mcnxsr-di-yi-bu-60-dark.png){: .dark }
+![四等军队的素质](/assets/img/posts/mcnxsr-di-yi-bu-60.png){: .light }
+![四等军队的素质](/assets/img/posts/mcnxsr-di-yi-bu-60.png){: .dark style="filter: invert(100%);" }
 
 他们不同相貌、不同民族、不同地方、不同习好，却挤在同一片地方，听着同一个声音，看着同一个方向。
 {: .text_indent_2em }
@@ -8053,14 +8053,14 @@ tags: [当年明月]
 <kbd>黄金家族世系㈠</kbd>
 {: .text_align_center .font_weight_bold }
 
-![黄金家族世系㈠](/assets/img/posts/mcnxsr-di-yi-bu-61-light.png){: .light }
-![黄金家族世系㈠](/assets/img/posts/mcnxsr-di-yi-bu-61-dark.png){: .dark }
+![黄金家族世系㈠](/assets/img/posts/mcnxsr-di-yi-bu-61.png){: .light }
+![黄金家族世系㈠](/assets/img/posts/mcnxsr-di-yi-bu-61.png){: .dark style="filter: invert(100%);" }
 
 <kbd>黄金家族世系㈡</kbd>
 {: .text_align_center .font_weight_bold }
 
-![黄金家族世系㈡](/assets/img/posts/mcnxsr-di-yi-bu-62-light.png){: .light }
-![黄金家族世系㈡](/assets/img/posts/mcnxsr-di-yi-bu-62-dark.png){: .dark }
+![黄金家族世系㈡](/assets/img/posts/mcnxsr-di-yi-bu-62.png){: .light }
+![黄金家族世系㈡](/assets/img/posts/mcnxsr-di-yi-bu-62.png){: .dark style="filter: invert(100%);" }
 
 一百九十六年前，铁木真在斡难河（今蒙古鄂嫩河）召开大会，他豪情万丈地看着臣服于他的诸侯，大声宣告自己即蒙古国大汗位，他从此成为了蒙古的统治者，铁木真这个名字不再被人们提起，取而代之的是伟大的成吉思汗。
 {: .text_indent_2em }
@@ -8247,8 +8247,8 @@ tags: [当年明月]
 <kbd>蓝玉案始末</kbd>
 {: .text_align_center .font_weight_bold }
 
-![蓝玉案始末](/assets/img/posts/mcnxsr-di-yi-bu-63-light.png){: .light }
-![蓝玉案始末](/assets/img/posts/mcnxsr-di-yi-bu-63-dark.png){: .dark }
+![蓝玉案始末](/assets/img/posts/mcnxsr-di-yi-bu-63.png){: .light }
+![蓝玉案始末](/assets/img/posts/mcnxsr-di-yi-bu-63.png){: .dark style="filter: invert(100%);" }
 
 蓝玉案件发生的时间，是在洪武二十六年二月，我们以此为线索，看看在这一年的前后出现过什么事件吧？这些事件应该对蓝玉案的处理有着深远的影响。
 {: .text_indent_2em }
@@ -8322,8 +8322,8 @@ tags: [当年明月]
 <kbd>开国皇帝与开国功臣</kbd>
 {: .text_align_center .font_weight_bold }
 
-![开国皇帝与开国功臣](/assets/img/posts/mcnxsr-di-yi-bu-64-light.png){: .light }
-![开国皇帝与开国功臣](/assets/img/posts/mcnxsr-di-yi-bu-64-dark.png){: .dark }
+![开国皇帝与开国功臣](/assets/img/posts/mcnxsr-di-yi-bu-64.png){: .light }
+![开国皇帝与开国功臣](/assets/img/posts/mcnxsr-di-yi-bu-64.png){: .dark style="filter: invert(100%);" }
 
 <kbd>参考消息：开国皇帝与开国功臣</kbd>
 {: .text_align_center .font_weight_bold }
@@ -8528,8 +8528,8 @@ tags: [当年明月]
 <kbd>明代朝冠和补子</kbd>
 {: .text_align_center .font_weight_bold }
 
-![明代朝冠和补子](/assets/img/posts/mcnxsr-di-yi-bu-65-light.png){: .light }
-![明代朝冠和补子](/assets/img/posts/mcnxsr-di-yi-bu-65-dark.png){: .dark }
+![明代朝冠和补子](/assets/img/posts/mcnxsr-di-yi-bu-65.png){: .light }
+![明代朝冠和补子](/assets/img/posts/mcnxsr-di-yi-bu-65.png){: .dark style="filter: invert(100%);" }
 
 这是老百姓，官员们也不轻松，他们衣服穿着和颜色搭配、用料、图案都有着严格的规定，如违反，是要杀头的。
 {: .text_indent_2em }
@@ -8684,8 +8684,8 @@ tags: [当年明月]
 <kbd>锦衣卫的装束</kbd>
 {: .text_align_center .font_weight_bold }
 
-![锦衣卫的装束](/assets/img/posts/mcnxsr-di-yi-bu-66-light.png){: .light }
-![锦衣卫的装束](/assets/img/posts/mcnxsr-di-yi-bu-66-dark.png){: .dark }
+![锦衣卫的装束](/assets/img/posts/mcnxsr-di-yi-bu-66.png){: .light }
+![锦衣卫的装束](/assets/img/posts/mcnxsr-di-yi-bu-66.png){: .dark style="filter: invert(100%);" }
 
 相比而言，锦衣卫就厉害得多了，它是皇帝的卫队，出行时负责保卫，此外它还是仪仗队，上朝时掌管礼仪。所有锦衣卫的成员服装整齐，穿着飞鱼服，佩带绣春刀。正是由于锦衣卫承担着如此重要的职责，且都是皇帝身边的人，他们渐渐地成为了皇帝的耳目，负责打探情报和惩处大臣。
 {: .text_indent_2em }

@@ -10,8 +10,8 @@ tags: [刘慈欣, 科幻]
 # 本文中对球状闪电特性和行为的描写均以真实历史记录为依据。
 {:.text_align_center}
 
-![球状闪电](/assets/img/posts/qiu-zhuang-shan-dian-1-light.png){: .light }
-![球状闪电](/assets/img/posts/qiu-zhuang-shan-dian-1-dark.png){: .dark }
+![球状闪电](/assets/img/posts/qiu-zhuang-shan-dian-1.png){: .light }
+![球状闪电](/assets/img/posts/qiu-zhuang-shan-dian-1.png){: .dark style="filter: invert(100%);" }
 
 ## 序曲
 {:.text_align_center}

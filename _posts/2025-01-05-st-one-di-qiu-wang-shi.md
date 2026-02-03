@@ -559,8 +559,8 @@ tags: [刘慈欣, 科幻]
 叶文洁发现自己也盖着一件军大衣，身上的衣服是干的，很暖和。
 {: .text_indent_2em }
 
-![她猜自己可能是在一架直升机上。](/assets/img/posts/st-one-di-qiu-wang-shi-1-light.png){: .light }
-![她猜自己可能是在一架直升机上。](/assets/img/posts/st-one-di-qiu-wang-shi-1-dark.png){: .dark }
+![她猜自己可能是在一架直升机上。](/assets/img/posts/st-one-di-qiu-wang-shi-1.png){: .light }
+![她猜自己可能是在一架直升机上。](/assets/img/posts/st-one-di-qiu-wang-shi-1.png){: .dark style="filter: invert(100%);" }
 
 她吃力地想支起身，居然成功了。她看到了另一边的舷窗，窗外是缓缓移去的滚滚云海，被阳光照得很刺眼；她赶紧收回目光，看到狭窄的机舱中堆满了军绿色的铁箱子，从另一个舷窗中可以看到上方旋翼的影子。她猜自己可能是在一架直升机上。
 {: .text_indent_2em }
@@ -3007,8 +3007,8 @@ tags: [刘慈欣, 科幻]
 “是的，我造出了宇宙机器。使球转动的那一组复杂的齿轮，模拟着外界火海对球的作用。这种作用的规律，也就是外界火海中火焰的分布和流动规律，是我经过几百年的观测总结出来的。”
 {: .text_indent_2em .font_family_kaiti }
 
-![墨子的宇宙模型](/assets/img/posts/st-one-di-qiu-wang-shi-2-light.png){: .light }
-![墨子的宇宙模型](/assets/img/posts/st-one-di-qiu-wang-shi-2-dark.png){: .dark }
+![墨子的宇宙模型](/assets/img/posts/st-one-di-qiu-wang-shi-2.png){: .light }
+![墨子的宇宙模型](/assets/img/posts/st-one-di-qiu-wang-shi-2.png){: .dark style="filter: invert(100%);" }
 
 “这球可以膨胀收缩吗？”
 {: .text_indent_2em .font_family_kaiti }
@@ -3817,8 +3817,8 @@ tags: [刘慈欣, 科幻]
 我又引入了第三个球体，情况发生了令我震惊的变化。前面说过，任何图形在我的意识深处都是数字化的，前面的无球、一球和二球宇宙表现为一条或寥寥几条描述它的方程，像几片晚秋的落叶。但这第三个球体是点上了“空”之睛的龙，三球宇宙一下子变得复杂起来，三个被赋予了初始运动的球体在太空中进行着复杂的、似乎永不重复的运动，描述方程如暴雨般涌现，无休无止。我就这样进入梦乡，三球在梦中一直舞蹈着，无规律的永不重复的舞蹈。但在我的意识深处，这舞蹈是有节奏的，只是重复的周期无限长而已，这让我着迷，我要描述出这个周期的一部分或全部。
 {: .text_indent_2em .font_family_kaiti }
 
-![魏成的三球宇宙](/assets/img/posts/st-one-di-qiu-wang-shi-3-light.png){: .light }
-![魏成的三球宇宙](/assets/img/posts/st-one-di-qiu-wang-shi-3-dark.png){: .dark }
+![魏成的三球宇宙](/assets/img/posts/st-one-di-qiu-wang-shi-3.png){: .light }
+![魏成的三球宇宙](/assets/img/posts/st-one-di-qiu-wang-shi-3.png){: .dark style="filter: invert(100%);" }
 
 第二天我一直在想着那三个在“空”中舞蹈的球，思想从没有像这样全功率转动过，以至于有僧人问长老我精神是不是出了什么毛病，长老一笑说：没事，他找到了空。是的，我找到了空，现在我能隐于市了，就是置身熙攘的人群中，我的内心也是无比清静。我第一次享受到了数学的乐趣，三体问题[^ThreeBodyProblem]的物理原理很单纯，其实是一个数学问题。这时，我就像一个半生寻花问柳的放荡者突然感受到了爱情。
 {: .text_indent_2em .font_family_kaiti }
@@ -4138,8 +4138,8 @@ tags: [刘慈欣, 科幻]
 “那么跑了的那一位是莱布尼茨了？”汪淼问。
 {: .text_indent_2em .font_family_kaiti }
 
-![冯·诺依曼](/assets/img/posts/st-one-di-qiu-wang-shi-4-light.png){: .light }
-![冯·诺依曼](/assets/img/posts/st-one-di-qiu-wang-shi-4-dark.png){: .dark }
+![冯·诺依曼](/assets/img/posts/st-one-di-qiu-wang-shi-4.png){: .light }
+![冯·诺依曼](/assets/img/posts/st-one-di-qiu-wang-shi-4.png){: .dark style="filter: invert(100%);" }
 
 “是他，无耻之徒！呸！！其实我根本不屑于同他争夺这项名誉，力学三定律的发现，就已经使我成为仅次于上帝的人，从星球运行到细胞分裂，无不遵从于这三个伟大的定律。现在有了微积分这个强有力的数学工具，以三定律为基础，掌握三个太阳运行的规律指日可待。”
 {: .text_indent_2em .font_family_kaiti }
@@ -4324,8 +4324,8 @@ tags: [刘慈欣, 科幻]
 秦始皇点点头：“那就开始吧。”
 {: .text_indent_2em .font_family_kaiti }
 
-![秦始皇](/assets/img/posts/st-one-di-qiu-wang-shi-5-light.png){: .light }
-![秦始皇](/assets/img/posts/st-one-di-qiu-wang-shi-5-dark.png){: .dark }
+![秦始皇](/assets/img/posts/st-one-di-qiu-wang-shi-5.png){: .light }
+![秦始皇](/assets/img/posts/st-one-di-qiu-wang-shi-5.png){: .dark style="filter: invert(100%);" }
 
 冯·诺伊曼双手过顶，庄严地喊道：“奉圣上御旨，计算机启动！系统自检！”
 {: .text_indent_2em .font_family_kaiti }
@@ -5362,8 +5362,8 @@ tags: [刘慈欣, 科幻]
 太阳完全升出了天边连绵的山脊，红岸天线定位器的十字丝的中心对在它的上缘，这是考虑了电渡运行的提前量，发射系统已处于就绪状态。发射按钮呈长方形，很像电脑键盘上的空格键，但是红色的。这时，叶文洁的手指悬在它上面两厘米处。
 {: .text_indent_2em }
 
-![人类文明的命运，就系于这纤细的两指之上。](/assets/img/posts/st-one-di-qiu-wang-shi-6-light.png){: .light }
-![人类文明的命运，就系于这纤细的两指之上。](/assets/img/posts/st-one-di-qiu-wang-shi-6-dark.png){: .dark }
+![人类文明的命运，就系于这纤细的两指之上。](/assets/img/posts/st-one-di-qiu-wang-shi-6.png){: .light }
+![人类文明的命运，就系于这纤细的两指之上。](/assets/img/posts/st-one-di-qiu-wang-shi-6.png){: .dark style="filter: invert(100%);" }
 
 人类文明的命运，就系于这纤细的两指之上。
 {: .text_indent_2em }
@@ -5473,8 +5473,8 @@ tags: [刘慈欣, 科幻]
 士兵们枪上电筒的光柱集中在那个拿核弹的女孩儿身上，这个艳丽的死亡之花手捧着一千五百吨TNT，灿烂地笑着，仿佛是在舞台聚光灯下迎接着掌声和赞美。
 {: .text_indent_2em }
 
-![拿核弹的女孩儿](/assets/img/posts/st-one-di-qiu-wang-shi-7-light.png){: .light }
-![拿核弹的女孩儿](/assets/img/posts/st-one-di-qiu-wang-shi-7-dark.png){: .dark }
+![拿核弹的女孩儿](/assets/img/posts/st-one-di-qiu-wang-shi-7.png){: .light }
+![拿核弹的女孩儿](/assets/img/posts/st-one-di-qiu-wang-shi-7.png){: .dark style="filter: invert(100%);" }
 
 “有一个办法：向那个球射击。”爆炸物专家在大史耳边低声说。
 {: .text_indent_2em }
@@ -6160,8 +6160,8 @@ tags: [刘慈欣, 科幻]
 随着三体运动的发展，三体叛军中出现了第三个派别：幸存派。当入侵太阳系的外星舰队的存在被确切证实后，在那场终极战争中幸存下来是人们最自然的愿望。当然，战争是四百五十年之后的事了，与自己的此生无关，但很多人希望如果人类战败，自己在四个半世纪后的子孙能幸存下来。现在就为三体侵略者服务，显然有利于这个目标的实现。与另外两个主流派别比较，幸存派成员都来自较低的社会阶层，且东方人（特别是中国人）居多，他们目前的数量还很少，但人数在急剧增长，在三体文化日益普及的未来，将会成为一支不可忽视的力量。
 {: .text_indent_2em }
 
-![人类文明自身缺陷产生的异化力量](/assets/img/posts/st-one-di-qiu-wang-shi-8-light.png){: .light }
-![人类文明自身缺陷产生的异化力量](/assets/img/posts/st-one-di-qiu-wang-shi-8-dark.png){: .dark }
+![人类文明自身缺陷产生的异化力量](/assets/img/posts/st-one-di-qiu-wang-shi-8.png){: .light }
+![人类文明自身缺陷产生的异化力量](/assets/img/posts/st-one-di-qiu-wang-shi-8.png){: .dark style="filter: invert(100%);" }
 
 人类文明自身缺陷产生的异化力量、对更高等文明的向往和崇拜、让子孙在终极战争后幸存的强烈欲望，这三股强大的动力推动地球三体运动迅速发展，当它被察觉时，已成燎原之势。
 {: .text_indent_2em }
