@@ -4843,7 +4843,7 @@ tags: [当年明月]
 ![定西沉儿峪之战](/assets/img/posts/mcnxsr-di-yi-bu-43.png){: .light }
 ![定西沉儿峪之战](/assets/img/posts/mcnxsr-di-yi-bu-43.png){: .dark style="filter: invert(100%);" }
 
-★ 书内命名日期皆为阴历
+★ 书内地图中日期皆为阴历
 {: .text_indent_2em .font_family_kaiti }
 
 <kbd>参考消息：朱元璋心目中的元朝一哥</kbd>
