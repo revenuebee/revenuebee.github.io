@@ -35,7 +35,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 ·即时见效；
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_red }
 
 ·无论烟瘾轻重，同样有效；
 {: .text_indent_2em .font_family_kaiti }
@@ -371,7 +371,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “现在我知道，再没有什么东西能让我重新开始吸烟了。我永远不会再成为烟瘾的奴隶。自由的感觉真好。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——克莉丝·J
 {: .text_align_right .font_family_kaiti }
@@ -380,7 +380,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “我从来没有幻想过，我居然会主动想要放弃吸烟——而且在读完这本书之前，还必须故意压抑这种想法！”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——瑞切尔·C
 {: .text_align_right .font_family_kaiti }
@@ -443,7 +443,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “我一直以为，一旦戒烟的话，我就不会像原来一样快乐和自信。你的书让我发现，戒烟之后，我会变得更快乐，更自信！”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——珍妮弗·O
 {: .text_align_right .font_family_kaiti }
@@ -599,7 +599,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “感谢你的远见卓识和幽默感，你几乎把一切都预料到了。读这本书的时候，我有好几次都笑出声来。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——J·桑德斯夫人
 {: .text_align_right .font_family_kaiti }
@@ -620,7 +620,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “与上一次戒烟的情况不同，我并没有做噩梦，没有失眠，也没有情绪低落。事实正好相反——我感觉仿佛重获了新生。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——玛莎·F
 {: .text_align_right .font_family_kaiti }
@@ -800,7 +800,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “你建议我读这本书的时候维持吸烟的习惯，这实在是一出妙招。读书的过程中，我发现我对抽掉的每一根烟都耿耿于怀。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——科尔斯蒂·L
 {: .text_align_right .font_family_kaiti }
@@ -977,7 +977,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “如果所有吸烟者都能抱着开放的心态读完这本书，所有的烟草公司都会倒闭，无数人的生活都会变得快乐得多。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——卡罗尔·安妮·F
 {: .text_align_right .font_family_kaiti }
@@ -1007,7 +1007,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “尼古清公司的一位代表曾对我说，按亚伦·卡尔的方法戒烟的人很容易分辨，因为戒烟真的能让他们感到开心。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——尤娜·M
 {: .text_align_right .font_family_kaiti }
@@ -1190,7 +1190,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “过去我以为自己只有靠吸烟才能直面压力。现在我知道，我面对压力的表现更好了。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——珍妮弗·O
 {: .text_align_right .font_family_kaiti }
@@ -1247,7 +1247,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “你让我重新体验到了世界的美丽，让我的身体充满活力——23岁的年轻人本来应有的活力。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——佐兰·K
 {: .text_align_right .font_family_kaiti }
@@ -1307,7 +1307,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “过去，生活经常让我感到恐惧，我以为只有吸烟才能缓解这种恐惧。现在我发现，生活其实十分美好，完全没有什么可恐惧的。真的十分感谢你为我做的一切。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——佩蒂·D
 {: .text_align_right .font_family_kaiti }
@@ -1511,7 +1511,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “过去我从来没有想象过，我居然可以一整天不吸一支烟。现在……我难以想象的是，我过去居然吸了那么长时间的烟，并且对戒烟心怀恐惧。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——贝弗利·J
 {: .text_align_right .font_family_kaiti }
@@ -1720,7 +1720,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “现在我可以游泳、骑车、冲浪、跑步、玩帆板，再也不会气喘吁吁了。每半个小时喷一次哮喘喷剂的日子，永远一去不复返了。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——凯文·M
 {: .text_align_right .font_family_kaiti }
@@ -1873,7 +1873,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “我的皮肤重新变好了！脸上再也不会感觉干干的，也没有青春痘了，只有干净的、柔软的皮肤！焕发出健康的光泽！我几乎无法相信，我的脸颊又恢复了红润！”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——黛比·S
 {: .text_align_right .font_family_kaiti }
@@ -1999,7 +1999,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “戒烟让我的生活质量提高了很多。奇怪的是，现在我根本记不得吸烟究竟是什么滋味。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——李·W
 {: .text_align_right .font_family_kaiti }
@@ -2074,7 +2074,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “我尝试戒烟已经不知多少次了，但每次总是失败，因为我总以为吸烟意味着放弃很多东西。现在我的感觉很好。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——希拉·M
 {: .text_align_right .font_family_kaiti }
@@ -2398,7 +2398,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “随着时间慢慢过去，我越来越难以想象吸烟的感觉。大多数时候，我甚至彻底忘了自己曾经是个吸烟者。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——道格拉斯·詹姆斯·W
 {: .text_align_right .font_family_kaiti }
@@ -2563,7 +2563,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “我并没有‘放弃’吸烟，只是‘成为’了一名非吸烟者……这是我一生中最大的成就，我恨不得能与全世界分享。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——大卫·O
 {: .text_align_right .font_family_kaiti }
@@ -2686,7 +2686,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “……终于从尼古丁的奴役之下解脱出来，重获自由，我的感激之情实在无法表达……自由的感觉实在太棒了。”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——埃德娜·J
 {: .text_align_right .font_family_kaiti }
@@ -2701,7 +2701,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “我第一次意识到，过去我的生活完全被烟瘾控制了。我丝毫不怀念那时候的感觉……”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——堂娜·B
 {: .text_align_right .font_family_kaiti }
@@ -2974,7 +2974,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “我亲身经历了一场奇迹！一切都无比新颖，无比神奇。是你为我打开了奇迹之门，我心中的感激之情简直无法表达！”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——黛比·S
 {: .text_align_right .font_family_kaiti }
@@ -3025,7 +3025,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 “我把这本书读了三遍，终于体验到了那种感觉！现在我又能享受生活了。你真是个天才！”
-{: .text_indent_2em .font_family_kaiti }
+{: .text_indent_2em .font_family_kaiti .dark_green }
 
 ——卡夫·E
 {: .text_align_right .font_family_kaiti }
