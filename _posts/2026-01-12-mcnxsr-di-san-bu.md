@@ -8124,7 +8124,7 @@ tags: [当年明月]
 石灰吟
 {: .text_align_center .font_family_kaiti }
 
-千锤百炼出深山，
+千锤万凿出深山，
 {: .text_align_center .font_family_kaiti }
 
 烈火焚烧若等闲。
