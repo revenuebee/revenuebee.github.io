@@ -35,7 +35,7 @@ tags: [Allen Carr]
 {: .text_indent_2em }
 
 ·即时见效；
-{: .text_indent_2em .font_family_kaiti .dark_red }
+{: .text_indent_2em .font_family_kaiti }
 
 ·无论烟瘾轻重，同样有效；
 {: .text_indent_2em .font_family_kaiti }
