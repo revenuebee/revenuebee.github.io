@@ -8,6 +8,7 @@ tags: [当年明月]
 ---
 
 ## 第一章&emsp;明君
+{: .text_align_center }
 
 ○　他这一辈子没有享过什么福　却遭了很多罪　受过无数恶毒的伤害　却选择了无私的宽恕　他很少体验皇帝的尊荣　却承担了皇帝的全部责任
 {: .font_family_kaiti }
@@ -835,6 +836,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第二章&emsp;斗争，还是隐忍？
+{: .text_align_center }
 
 ○　劝君更尽一杯酒　西出阳关无故人　有时候　屈辱地活着比死去更需要勇气
 {: .font_family_kaiti }
@@ -1290,6 +1292,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第三章&emsp;传奇就此开始
+{: .text_align_center }
 
 ○　圣贤之路是一条完全不同的道路　它有起点　却似乎永远看不到终点　它神秘诡异　又深不可测　它比名将之路更加艰辛
 {: .font_family_kaiti }
@@ -1781,6 +1784,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第四章&emsp;悟道
+{: .text_align_center }
 
 ○　这是载入史册的一瞬　几乎所有的史书都用了相同的词语来描述这一瞬——顿悟　中华文明史上一门伟大的哲学——心学　就此诞生
 {: .font_family_kaiti }
@@ -2557,6 +2561,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第五章&emsp;机会终于到来
+{: .text_align_center }
 
 ○　即使全天下的人都误解了你　我也理解你的言行　明了你的用心　我知道你一直在屈辱中等待着
 {: .font_family_kaiti }
@@ -3072,6 +3077,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第六章&emsp;必杀刘瑾
+{: .text_align_center }
 
 ○　刘瑾先生的生命终于走到了尽头　以前有很多人骂他杀千刀的　现在终于实现了　据说还不止　因为凌迟的标准刀数是三千多刀　刘兄弟不但还了本　还付了息
 {: .font_family_kaiti }
@@ -4016,6 +4022,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第七章&emsp;皇帝的幸福生活
+{: .text_align_center }
 
 ○　他就如同现在所谓的反叛一代　你越让他干什么　他越不干　他不残暴　不杀戮　作出种种怪异的行为　其实只是表达一个愿望——做自己想做的事情
 {: .font_family_kaiti }
@@ -4462,6 +4469,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第八章&emsp;无人知晓的胜利
+{: .text_align_center }
 
 ○　在明代的所有战役中　被故意忽视的应州之战本就不显眼　但这场被忽视的战役　却是朱厚照勇猛无畏的唯一证明
 {: .font_family_kaiti }
@@ -4974,6 +4982,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第九章&emsp;东山再起
+{: .text_align_center }
 
 ○　他向这个给他一生最重要启示的地方投下了最后一瞥　然后跨过重重山隘　走出了关口　重见天日
 {: .font_family_kaiti }
@@ -5630,6 +5639,7 @@ tags: [当年明月]
 ![唐伯虎的悲情人生](/assets/img/posts/mcnxsr-di-si-bu-27.png){: .dark style="filter: invert(100%);" }
 
 ## 第十章&emsp;孤军
+{: .text_align_center }
 
 ○　他痛恨杀害孙燧　发动战争的宁王　却从未被愤怒冲昏头脑　他十分清楚凭借目前的兵力　绝对无法战胜对手　眼下他只能积蓄力量　等待时机的到来
 {: .font_family_kaiti }
@@ -6415,6 +6425,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十一章&emsp;奋战
+{: .text_align_center }
 
 ○　在我看来　支撑他一路走来　建立绝代功勋的　除了无比的智慧外　还有他那永不动摇的信念——报国救民　坚持到底
 {: .font_family_kaiti }
@@ -7512,6 +7523,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十二章&emsp;死亡的阴谋
+{: .text_align_center }
 
 ○　朱厚照这辈子也算是多姿多彩　短短的十几年　他就遇上了三次谋反　刘瑾　存在争议　朱寘鐇　还有最近的朱宸濠
 {: .font_family_kaiti }
@@ -8408,6 +8420,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十三章&emsp;沉默的较量
+{: .text_align_center }
 
 ○　他们曾经受人指使　穷尽各种方法侮辱他　挑起纠纷为难他　但这场斗争的结果是　王守仁赢了　赢得很彻底　不用武力　也不靠强权　以德服人而已
 {: .font_family_kaiti }
@@ -9001,6 +9014,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第十四章&emsp;终结的归宿
+{: .text_align_center }
 
 ○　王守仁的一生　是光明的一生　他历经坎坷　却意志坚定　混迹官场　却心系百姓　他反对暴力和贪欲　坚信正义和良知
 {: .font_family_kaiti }
@@ -9717,6 +9731,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十五章&emsp;新的开始
+{: .text_align_center }
 
 ○　正德十六年　1521　四月二十三日　那个略显羞涩的少年朱厚熜来到了京城即位成了新的皇帝　改明年为嘉靖元年（1522）　是为嘉靖皇帝
 {: .font_family_kaiti }
@@ -9923,6 +9938,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第十六章&emsp;皇帝很脆弱
+{: .text_align_center }
 
 ○　必须亮出自己的獠牙　才能有效地控制住所有的人　即使是皇帝也不例外　这就是少年朱厚熜学到的第一课
 {: .font_family_kaiti }
@@ -10447,6 +10463,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十七章&emsp;大臣很强悍
+{: .text_align_center }
 
 ○　于是　无论是真心还是假意　下朝的大臣们一个也没走成　在杨慎的带领下　他们一起向左顺门走去　沉积了三年的愤怒和失落将在那里彻底喷发
 {: .font_family_kaiti }
@@ -11082,6 +11099,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十八章&emsp;解脱
+{: .text_align_center }
 
 ○　战胜了无数的敌人　最终却也逃不过被人击败的命运　在这场权力的游戏中　绝不会有永远的胜利者　所有的荣华富贵　恩怨荣辱　最终不过化为尘土　归于笑柄而已
 {: .font_family_kaiti }
@@ -11621,6 +11639,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十九章&emsp;龙争虎斗
+{: .text_align_center }
 
 ○　十一年前　嘉靖三年　1524　他正是沿着这条道路春风得意地迈入京城　十余年的风雨飘摇　由小人物而起　却也因小人物而落　世道变化　反复无常　不过如此而已
 {: .font_family_kaiti }
@@ -12529,6 +12548,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第二十章&emsp;锋芒
+{: .text_align_center }
 
 ○　十五岁的时候　他登上了皇位　十七岁时　他用过人的天赋战胜了杨廷和　十八岁时　他杖责百官确立了自己的权威　而事实证明　他在治国方面也绝对不是一个昏庸之辈
 {: .font_family_kaiti }
@@ -13128,6 +13148,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录一&emsp;朱祐樘大事记
+{: .text_align_center }
 
 **成化六年**（1470）：1岁，生于西宫，为朱见深第三子，此后秘密养育于宫中的安乐堂内。
 {: .text_indent_2em }
@@ -13169,6 +13190,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录二&emsp;朱厚照大事记
+{: .text_align_center }
 
 **弘治四年**（1491）：1岁，出生，为朱祐樘长子，次年被封为皇太子。
 {: .text_indent_2em }

@@ -8,6 +8,7 @@ tags: [当年明月]
 ---
 
 ## 第一章&emsp;建文帝建文的忧虑
+{: .text_align_center }
 
 ○　朱允炆抬起头　用忧虑的口气说出了朱元璋万想不到的话　外敌入侵　由叔叔们来对付　如果叔叔们有异心　我怎么对付他们呢
 {: .font_family_kaiti }
@@ -298,6 +299,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第二章&emsp;等待中的朱棣：朱棣的痛苦
+{: .text_align_center }
 
 ○　大王若能用我　贫僧愿意送一顶白帽子给大王
 {: .font_family_kaiti }
@@ -528,6 +530,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第三章&emsp;准备行动
+{: .text_align_center }
 
 ○　刀已经架到脖子上了　朱棣似乎成为了板上鱼肉　在很多人看来　他只能束手就擒了　然而就在此时　朱棣却做出了一件别人想不到的事情
 {: .font_family_kaiti }
@@ -809,6 +812,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第四章&emsp;不得不反了
+{: .text_align_center }
 
 ○　朱棣向张信行礼　连声说道　是您救了我的全家啊　他立刻唤出在旁边等待多时的道衍　开始商议对策　事情至此发生变化
 {: .font_family_kaiti }
@@ -1342,6 +1346,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第五章&emsp;你死我活的战争
+{: .text_align_center }
 
 ○　我有着过人的军事天赋　我的铁蹄曾踏遍蒙古　纵横千里　但我并不是皇帝
 {: .font_family_kaiti }
@@ -2008,6 +2013,8 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第六章&emsp;朱棣的对手
+{: .text_align_center }
+
 ○　此时的济南城里　挤满了人心惶惶的逃难百姓和打了败仗的残兵败将　治安情况也不好　有战斗力的士兵极度缺乏　铁铉面对的就是这样一个烂摊子
 {: .font_family_kaiti }
 
@@ -2666,6 +2673,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第七章&emsp;离胜利只差一步！
+{: .text_align_center }
 
 ○　朱棣不会想到　自己在无意中已经陷入了一个思维的陷阱　去京城就一定要打山东吗
 {: .font_family_kaiti }
@@ -3041,6 +3049,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第八章&emsp;殉国、疑团、残暴、软弱
+{: .text_align_center }
 
 ○　越过那历史的迷雾　我们看到的并不是一个强大自信的朱棣　相反　在那光辉的宝座上　坐着的是一个面色苍白的中年人
 {: .font_family_kaiti }
@@ -3364,6 +3373,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第九章&emsp;帝王的烦恼
+{: .text_align_center }
 
 ○　历史证明　朱棣失败了　他没有能够欺骗自己　也没有骗到后来的人　因为真正的史笔并不是史官手下的毛笔　而是人心
 {: .font_family_kaiti }
@@ -3780,6 +3790,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第十章&emsp;帝王的荣耀
+{: .text_align_center }
 
 ○　这不仅仅是文化　这是包括经济在内的综合实力的体现　是一个国家自信和强大的象征
 {: .font_family_kaiti }
@@ -4510,6 +4521,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第十一章&emsp;帝王的抉择
+{: .text_align_center }
 
 ○　今天的北京拥有上千万人口　无数的高楼大厦　是我们国家的首都　也是世界上最繁华的城市之一　而这一切的起点就源自于朱棣的一个决定
 {: .font_family_kaiti }
@@ -4731,6 +4743,8 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十二章&emsp;郑和之后，再无郑和
+{: .text_align_center }
+
 ○　他历经坎坷　九死一生　终于实现了这一中国历史乃至世界历史上伟大的壮举　他率领庞大船队七下西洋　促进了明朝和东南亚　印度　非洲等国的和平交流　并向他们展示了一个强大　开明的国家的真实面貌
 {: .font_family_kaiti }
 
@@ -5359,6 +5373,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十三章&emsp;纵横天下
+{: .text_align_center }
 
 ○　我们经常会产生一个疑问　那就是怎样才能获得其他国家及其人民的尊重　在世界上风光自豪一把　其实答案很简单　国家强大
 {: .font_family_kaiti }
@@ -5757,6 +5772,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十四章&emsp;天子守国门！
+{: .text_align_center }
 
 ○　八年未经战阵的朱棣终于回到了战场　一切似乎都是那么的熟悉
 {: .font_family_kaiti }
@@ -6137,6 +6153,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十五章&emsp;逆命者必剪除之！
+{: .text_align_center }
 
 ○　攘外必先安内　也并不单单是汉族的传统　在打垮了鞑靼后　瓦剌的马哈木也动起了统一蒙古　恢复帝国的念头
 {: .font_family_kaiti }
@@ -6658,6 +6675,8 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十六章&emsp;帝王的财产
+{: .text_align_center }
+
 ○　永乐大帝朱棣就这样用武力为自己的国民创造了一个良好的生活环境　此时《永乐大典》已经修成　边疆平安无事　周边四夷争相向明朝皇帝朝贡　大明帝国可谓风光无比
 {: .font_family_kaiti }
 
@@ -7283,6 +7302,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十七章&emsp;生死相搏
+{: .text_align_center }
 
 ○　干了那么多的事　却什么回报都没有　朱高煦很愤怒　后果很严重
 {: .font_family_kaiti }
@@ -7924,6 +7944,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十八章&emsp;最后的秘密
+{: .text_align_center }
 
 ○　在他坐在皇位上的每一个白天　睡在寝宫里的每一个夜晚　有一件事情　总是缠绕在他的心头　如噩梦般挥之不去　斩之不绝
 {: .font_family_kaiti }
@@ -8670,6 +8691,7 @@ C：我找到了建文帝，并和他交谈过。
 {: .text_indent_2em }
 
 ## 附录一&emsp;朱允炆大事记
+{: .text_align_center }
 
 **洪武十年**（1377）：1岁，出生，为朱标次子。
 {: .text_indent_2em }
@@ -8693,6 +8715,7 @@ C：我找到了建文帝，并和他交谈过。
 {: .text_indent_2em }
 
 ## 附录二&emsp;朱棣大事记
+{: .text_align_center }
 
 **至正二十年**（1360）：1岁，五月二日，出生，为朱元璋第四子。
 {: .text_indent_2em }

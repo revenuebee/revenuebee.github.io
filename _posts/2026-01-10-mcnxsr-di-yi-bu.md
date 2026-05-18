@@ -2269,6 +2269,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十一章&emsp;洪都的奇迹
+{: .text_align_center }
 
 ○　就在陈友谅向洪都进军的当天　收到这一消息的朱文正收起了他那套饮酒取乐的行头　对陈友谅露出了狰狞面目
 {: .font_family_kaiti }
@@ -2920,6 +2921,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十二章&emsp;鄱阳湖！决死战！
+{: .text_align_center }
 
 ○　他最先看到的是战船上士兵的眼睛　恐怖的红色
 {: .font_family_kaiti }
@@ -3477,6 +3479,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十三章&emsp;下一个目标，张士诚！
+{: .text_align_center }
 
 ○　张士诚似乎不太明白自己的地位，他还想当他的富地主时叫嚣江南半壁
 {: .font_family_kaiti }
@@ -3776,6 +3779,7 @@ tags: [当年明月]
 ![张士诚的一生](/assets/img/posts/mcnxsr-di-yi-bu-34.png){: .dark style="filter: invert(100%);" }
 
 ## 第十四&emsp;章复仇
+{: .text_align_center }
 
 ○　天道好还 中国有必伸之理 人心效顺 匹夫无不报之仇
 {: .font_family_kaiti }
@@ -5015,6 +5019,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十五章&emsp;远征沙漠
+{: .text_align_center }
 
 ○　朱元璋的这次战略部署主攻辅攻佯攻皆有分路出击
 {: .font_family_kaiti }
@@ -5195,6 +5200,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十六章&emsp;建国
+{: .text_align_center }
 
 ○　朱元璋在解决了北元后制定了一系列旨在恢复生产和生活的政策收到了良好的效果
 {: .font_family_kaiti }
@@ -5824,6 +5830,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十七章&emsp;胡惟庸案件
+{: .text_align_center }
 
 ○　正是因为胡极其庸对朱元璋的威胁，所以朱元璋才让他成为了胜利者
 {: .font_family_kaiti }
@@ -6619,6 +6626,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十八章&emsp;扫除一切腐败者！
+{: .text_align_center }
 
 ○　他要创造一个真正纯净的王朝　一个官员们人人清廉　百姓安居乐业的王朝
 {: .font_family_kaiti }
@@ -6834,6 +6842,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十九章&emsp;空印案　郭桓案
+{: .text_align_center }
 
 ○　朱元璋的行为大概可以用《说唐》里秦叔宝进牢房时　衙役喊的一句话来解释
 {: .font_family_kaiti }
@@ -7329,6 +7338,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第二十章&emsp;最后的名将——蓝玉
+{: .text_align_center }
 
 ○　徐达的时代结束了　新的名将时代到来了
 {: .font_family_kaiti }
@@ -8075,6 +8085,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第二十一章&emsp;蓝玉的覆灭
+{: .text_align_center }
 
 ○　从宴请纳哈出时的傲慢到喜峰关的骄狂　我们可以给蓝玉下一个结论
 {: .font_family_kaiti }
@@ -8392,6 +8403,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第二十二章&emsp;制度后的秘密
+{: .text_align_center }
 
 ○　在这个世界上　从来就不存在完美的东西　任何制度都有缺陷　任何体系都有漏洞
 {: .font_family_kaiti }
@@ -8826,6 +8838,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第二十三章&emsp;终点，起点：最后的朋友们
+{: .text_align_center }
 
 ○　为了建立这个伟大的帝国　他付出了自己的青春　精力　牺牲了爱人　朋友和属下
 {: .font_family_kaiti }
@@ -9527,6 +9540,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录一&emsp;开国名将谱
+{: .text_align_center }
 
 **徐达**（1332～1385）：安徽濠州人，病死。或说吃了朱元璋所赐蒸鹅，毒发而死。
 {: .text_indent_2em }
@@ -9574,6 +9588,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录二&emsp;朱元璋大事记
+{: .text_align_center }
 
 **泰定五年**（1328）：1岁，出生，生于濠州钟离东乡。
 {: .text_indent_2em }
@@ -9636,6 +9651,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录三&emsp;朱元璋为自己的子孙后辈设计的辈分表
+{: .text_align_center }
 
 1.**太子家**：允文遵祖训，钦武大君胜，顺道宜逢吉，师良善用晟。
 {: .text_indent_2em }

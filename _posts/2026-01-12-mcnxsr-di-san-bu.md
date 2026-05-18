@@ -8,6 +8,7 @@ tags: [当年明月]
 ---
 
 ## 第一章&emsp;朱高炽的勇气和疑团
+{: .text_align_center }
 
 ○　事实证明　这个体态臃肿的大胖子确实是一个仁厚宽人的皇帝　在他那肥胖残疾的外表下　是一颗并不残疾的　温和的心
 {: .font_family_kaiti }
@@ -325,6 +326,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第二章&emsp;朱瞻基是个好同志
+{: .text_align_center }
 
 ○　朱瞻基是个好皇帝　不是小好　是大好
 {: .font_family_kaiti }
@@ -1152,6 +1154,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第三章&emsp;祸根
+{: .text_align_center }
 
 ○　姑且不论后来王振的是是非非　但他和朱祁镇之间确实有着极其深厚的感情　然而就是这种过于深厚的感情和信任　最终酿成一场大祸
 {: .font_family_kaiti }
@@ -1778,6 +1781,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第四章&emsp;土木堡
+{: .text_align_center }
 
 ○　数十年之积累　数十年之人才　就此一扫而光
 {: .font_family_kaiti }
@@ -2563,6 +2567,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第五章&emsp;力挽狂澜
+{: .text_align_center }
 
 ○　但大明最终没有沦落到和北宋一样的下场　因为和当年的北宋相比　此时的大明多了一个人　多了一声怒吼
 {: .font_family_kaiti }
@@ -3339,6 +3344,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第六章&emsp;决断
+{: .text_align_center }
 
 ○　由于于谦已经代理了兵部尚书　且又是主战派的代表人物　所以朱祁钰便把防守北京的重任交给了于谦
 {: .font_family_kaiti }
@@ -4175,6 +4181,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第七章&emsp;信念
+{: .text_align_center }
 
 ○　这场战争　于谦输不起　大明也输不起
 {: .font_family_kaiti }
@@ -4864,6 +4871,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第八章&emsp;北京保卫战
+{: .text_align_center }
 
 ○　于谦实践了他的抉择　穿上了那套沉重的铠甲　离开了他的住所　向德胜门走去　在那里　他将获得他人生中的最大光荣
 {: .font_family_kaiti }
@@ -5625,6 +5633,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第九章&emsp;朱祁镇的奋斗
+{: .text_align_center }
 
 ○　这是真正的绝境　身陷敌营　没有人可以信任　没有人可以依靠　也不会有专人来伺候他的起居　其实衣食待遇不好还在其次　对于朱祁镇而言　能否活到第二天才是他每天都要考虑的问题
 {: .font_family_kaiti }
@@ -6089,6 +6098,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十章&emsp;回家
+{: .text_align_center }
 
 ○　他决心创造奇迹　即使什么都没有　他也要把朱祁镇带回来
 {: .font_family_kaiti }
@@ -6949,6 +6959,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第十一章&emsp;囚徒朱祁镇
+{: .text_align_center }
 
 ○　也先虽然文化不高　行为粗鲁　但还算是个比较讲义气的人　说话算数　而自己的这个好弟弟却为了巩固皇位　一心一意要把自己这个已经失去一切的人往死里逼
 {: .font_family_kaiti }
@@ -7410,6 +7421,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十二章&emsp;夺门
+{: .text_align_center }
 
 ○　我是太上皇　我太上皇也　开门
 {: .font_family_kaiti }
@@ -7880,6 +7892,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十三章&emsp;有冤报冤，有仇报仇
+{: .text_align_center }
 
 ○　正月二十三日　于谦被押往崇文门外　就在这座他曾拼死保卫的城池前　得到了他最后的结局　斩决　史载　天下冤之
 {: .font_family_kaiti }
@@ -8218,6 +8231,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十四章&emsp;隐藏的敌人
+{: .text_align_center }
 
 ○　他已经制定了一个周密的计划　并在暗中窥视着自己的猎物　随时准备打出那致命的一击　而在他的猎物名单上　有着这样三个名字　徐有贞　石亨　曹吉祥
 {: .font_family_kaiti }
@@ -8574,6 +8588,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十五章&emsp;公道
+{: .text_align_center }
 
 ○　于谦　属于你的公道　我一定会替你拿回来
 {: .font_family_kaiti }
@@ -9395,6 +9410,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 第十六章&emsp;不伦之恋
+{: .text_align_center }
 
 ○　对于朱见深而言　万贵妃是他的妻子　是这个世界上最善良　最可信的人　但可惜他不知道　这位万贵妃还有另外一副隐藏的面孔
 {: .font_family_kaiti }
@@ -10381,6 +10397,7 @@ tags: [当年明月]
 {: .text_indent_2em .font_family_kaiti }
 
 ## 第十七章&emsp;武林大会
+{: .text_align_center }
 
 ○　如果你还在等待着名门正派的出现　恐怕就只能失望而归了　因为此时江湖的情形完全可以用一句话来概括　这年头　没有好人了
 {: .font_family_kaiti }
@@ -11343,6 +11360,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录一&emsp;朱高炽大事记
+{: .text_align_center }
 
 **洪武十一年**（1378）：1岁，出生，为朱棣长子。
 {: .text_indent_2em }
@@ -11366,6 +11384,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录二&emsp;朱瞻基大事记
+{: .text_align_center }
 
 **建文元年**（1399）：1岁，出生，为朱高炽长子。
 {: .text_indent_2em }
@@ -11401,6 +11420,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录三&emsp;朱祁镇大事记
+{: .text_align_center }
 
 **宣德二年**（1427）：1岁，出生，为朱瞻基长子，次年被封为太子。
 {: .text_indent_2em }
@@ -11442,6 +11462,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录四&emsp;朱祁钰大事记
+{: .text_align_center }
 
 **宣德三年**（1428）：1岁，出生，为朱瞻基次子。
 {: .text_indent_2em }
@@ -11465,6 +11486,7 @@ tags: [当年明月]
 {: .text_indent_2em }
 
 ## 附录五&emsp;朱见深大事记
+{: .text_align_center }
 
 **正统十二年**（1447）：1岁，出生，为朱祁镇长子，初名朱见濬。
 {: .text_indent_2em }
