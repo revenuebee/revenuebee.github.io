@@ -7,21 +7,9 @@ categories: [文字, 世界观]
 tags: [世界观]
 ---
 
-在Substack上看到诺曼博士给儿子的一封信。
+在Substack上看到[诺曼博士给儿子的一封信](https://substack.com/@professornoman/note/c-256106555)。
 
 打动的我地方在于：一个人看过很多东西之后，依然努力保持诚恳。这种品质现在越来越稀缺了。
-
-很多人文学者发展到最后，可能会滑向两个极端：
-
-一、傲慢，用知识装备起一种优越感；
-
-二、犬儒，对社会的一切发出冷笑。
-
-他看到制度局限、知识界浮躁、社会性表演，人性软弱却依然对世界温柔以待。
-
-他说“文学教会了我法律永远无法教会的东西：一个人的心，是怎样悄无声息地碎掉的。”
-
-“如果连真诚都彻底放弃，黑暗只会变得更深。”
 
 ## 译文
 
@@ -377,4 +365,4 @@ may keep you human.
 
 — Dad.
 
-[![A Letter to My Son](/assets/img/posts/a-letter-to-my-son-1.png)](https://substack.com/@professornoman/note/c-256106555)
+![A Letter to My Son](/assets/img/posts/a-letter-to-my-son-1.png)
